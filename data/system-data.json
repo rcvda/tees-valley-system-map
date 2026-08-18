@@ -14255,11 +14255,11 @@
    "id": "person:andy-mcdonald",
    "name": "Andy McDonald",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "5541",
    "mandate": {
     "office": "MP for Middlesbrough and Thornaby East",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/5541/",
     "term": null
    }
   },
@@ -14267,11 +14267,11 @@
    "id": "person:anna-turley",
    "name": "Anna Turley",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "4408",
    "mandate": {
     "office": "Member of Parliament for Redcar",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/4408/",
     "term": null
    }
   },
@@ -14279,11 +14279,11 @@
    "id": "person:ben-houchen",
    "name": "Ben Houchen",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "19734",
    "mandate": {
     "office": "Tees Valley Mayor",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/19734/",
     "term": null
    }
   },
@@ -14291,11 +14291,11 @@
    "id": "person:chris-cooke",
    "name": "Chris Cooke",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "52805",
    "mandate": {
     "office": "Mayor of Middlesbrough",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/52805/",
     "term": null
    }
   },
@@ -14315,11 +14315,11 @@
    "id": "person:alec-brown",
    "name": "Cllr Alec Brown",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "52553",
    "mandate": {
     "office": "Councillor",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/52553/",
     "term": null
    }
   },
@@ -14555,11 +14555,11 @@
    "id": "person:matt-storey",
    "name": "Matt Storey",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "51793",
    "mandate": {
     "office": "Police and Crime Commissioner for Cleveland",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/51793/",
     "term": null
    }
   },

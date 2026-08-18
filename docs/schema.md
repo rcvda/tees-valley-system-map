@@ -38,7 +38,9 @@ organisation/body nodes keep `source`.)
 **Identifiers.** People use Democracy Club person IDs (`dc_id`); elections use uk-election-ids
 (`election_id`) — the same coded-ID discipline the org side uses (FTC OrgIDs). Current state: 121
 people (26 elected, 95 officer) migrated from the old flat `person` string; `dc_id` / `election_id` /
-mandate `source` / `term` are **stubbed (null) pending population from the Democracy Club API**.
+mandate `source` / `term` are stubbed (null) and populated by **`tools/enrich_mandates.py`**, which
+pulls each elected member's winning candidacy from the Democracy Club candidates API (see
+`tools/README.md`).
 
 ## The model — two cross-cutting structures
 
