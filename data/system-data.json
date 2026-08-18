@@ -8113,7 +8113,7 @@
   {
    "data": {
     "id": "Redcar and Cleveland Domestic Abuse Partnership",
-    "label": "Redcar and Cleveland Domestic Abuse Partnership",
+    "label": "Redcar and Cleveland Domestic Abuse Strategic Partnership",
     "type": "Partnership / board",
     "tier": "local",
     "geography": "Redcar & Cleveland",
@@ -8417,7 +8417,7 @@
     "person": "",
     "portfolio": "",
     "group": "Policing, safety & justice",
-    "description": "",
+    "description": "Chaired by Geoff Field (per Community Safety Plan).",
     "source": "https://www.middlesbrough.gov.uk/crime-and-safety/middlesbrough-community-safety-partnership/",
     "area": "E06000002",
     "area_label": "Middlesbrough",
@@ -8437,7 +8437,7 @@
     "person": "",
     "portfolio": "",
     "group": "Policing, safety & justice",
-    "description": "",
+    "description": "Chaired by Cllr Adam Brook (per Community Safety Plan).",
     "source": "https://www.redcar-cleveland.gov.uk/community-support/community-safety-partnership",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
@@ -8447,20 +8447,1293 @@
   {
    "data": {
     "id": "Cleveland Local Criminal Justice Board",
-    "label": "Cleveland Local Criminal Justice Board",
+    "label": "Cleveland Criminal Justice Board (CJB)",
     "type": "Partnership / board",
     "tier": "sub-regional",
     "geography": "Cleveland",
-    "status": "verify",
+    "status": "confirmed",
     "org": "",
     "subtype": "",
     "person": "",
     "portfolio": "",
     "group": "Policing, safety & justice",
-    "description": "Local Criminal Justice Board (per Home Office/MoJ guidance). Exact name to confirm.",
+    "description": "Top of the Cleveland criminal-justice structure. Source: R&C Community Safety Plan 2024-27.",
     "source": "https://assets.publishing.service.gov.uk/media/6419bed8d3bf7f7ff7d3b3c8/local-criminal-justice-boards-guidance.pdf",
     "area": "cleveland",
     "area_label": "Cleveland"
+   }
+  },
+  {
+   "data": {
+    "id": "Cleveland Reducing Reoffending Group (RROG)",
+    "label": "Cleveland Reducing Reoffending Group (RROG)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Cleveland Out-of-Court-Disposal Scrutiny Panel",
+    "label": "Cleveland Out-of-Court-Disposal Scrutiny Panel",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Cleveland Victims and Witness Group",
+    "label": "Cleveland Victims and Witness Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Cleveland CJB Strategic Performance Group",
+    "label": "Strategic Performance Group (CJB)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Intensive Supervision Court (Teesside)",
+    "label": "Intensive Supervision Court (Teesside)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Secondary and Tertiary Interventions Group",
+    "label": "Secondary and Tertiary Interventions Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Cleveland Combatting Drugs Partnership",
+    "label": "Cleveland Combatting Drugs Partnership",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Hartlepool Youth Justice Board",
+    "label": "Hartlepool Youth Justice Board",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Stockton Youth Justice Board",
+    "label": "Stockton Youth Justice Board",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Women and Girls in the Criminal Justice System Sub-Group",
+    "label": "Women and Girls in the Criminal Justice System Sub-Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Prevention, Diversion and Harm Reduction Sub-Group",
+    "label": "Prevention, Diversion and Harm Reduction Sub-Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Accommodation Sub-Group",
+    "label": "Accommodation Sub-Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Prevention, Early Intervention and Harm Reduction Sub-Group",
+    "label": "Prevention, Early Intervention and Harm Reduction Sub-Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Strengthening Treatment and Recovery Sub-Group",
+    "label": "Strengthening Treatment and Recovery Sub-Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Reducing Supply and Drug Related Crimes Sub-Group",
+    "label": "Reducing Supply and Drug Related Crimes Sub-Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Tees Drugs Related Deaths Forum",
+    "label": "Tees Drugs Related Deaths Forum",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Substance Misuse Partnerships (Cleveland)",
+    "label": "Substance Misuse Partnerships (Cleveland)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Commodities Delivery Group",
+    "label": "Commodities Delivery Group",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Safer Hartlepool Partnership",
+    "label": "Safer Hartlepool Partnership",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "Statutory Community Safety Partnership for Hartlepool (Crime & Disorder Act 1998).",
+    "group": "Policing, safety & justice",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Safer Stockton Partnership",
+    "label": "Safer Stockton Partnership",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Stockton-on-Tees",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "Statutory Community Safety Partnership for Stockton-on-Tees (Crime & Disorder Act 1998).",
+    "group": "Policing, safety & justice",
+    "area": "E06000004",
+    "area_label": "Stockton-on-Tees",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Middlesbrough Domestic Abuse Strategic Partnership",
+    "label": "Middlesbrough Domestic Abuse Strategic Partnership",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Middlesbrough",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000002",
+    "area_label": "Middlesbrough",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "Hartlepool Domestic Abuse Strategic Partnership",
+    "label": "Hartlepool Domestic Abuse Strategic Partnership",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Stockton-on-Tees Domestic Abuse Strategic Partnership",
+    "label": "Stockton-on-Tees Domestic Abuse Strategic Partnership",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Stockton-on-Tees",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000004",
+    "area_label": "Stockton-on-Tees",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Regional DA CJS Forum",
+    "label": "Regional DA CJS Forum",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "MARAC",
+    "label": "MARAC (Multi-Agency Risk Assessment Conference)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "MATAC",
+    "label": "MATAC (Multi-Agency Tasking and Co-ordination)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "MAPPA",
+    "label": "MAPPA (Multi-Agency Public Protection Arrangements)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Retail Crime Group (Cleveland)",
+    "label": "Retail Crime Group (Cleveland)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Hate Crime Group (Cleveland)",
+    "label": "Hate Crime Group (Cleveland)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Operation Endurance (Cleveland)",
+    "label": "Operation Endurance (Cleveland)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Tees Strategic Exploitation Group (TESG)",
+    "label": "Tees Strategic Exploitation Group (TESG)",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "R&C CSP Executive",
+    "label": "R&C CSP Executive",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "R&C CSG — Coastal",
+    "label": "Community Safety Group — Coastal",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "R&C CSG — Greater Eston",
+    "label": "Community Safety Group — Greater Eston",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "R&C CSG — Guisborough & East Cleveland",
+    "label": "Community Safety Group — Guisborough & East Cleveland",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "R&C MAROB",
+    "label": "Multi-Agency Response to Off-Road Bikes (MAROB)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "R&C Problem Solving Group",
+    "label": "Problem Solving Group (PSG)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "R&C Prevent Bronze",
+    "label": "Prevent (Bronze) Operational Group",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "R&C Protect & Prepare Group",
+    "label": "Protect & Prepare Group",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "R&C Tasking & Co-ordination Group",
+    "label": "Tasking & Co-ordination Group (TCG)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "Redcar & Cleveland Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "Accent Housing",
+    "label": "Accent Housing",
+    "type": "VCSE org",
+    "tier": "regional",
+    "geography": "North East",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E12000001",
+    "area_label": "North East",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Beyond Housing",
+    "label": "Beyond Housing",
+    "type": "VCSE org",
+    "tier": "sub-regional",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "Thirteen Housing",
+    "label": "Thirteen Housing",
+    "type": "VCSE org",
+    "tier": "sub-regional",
+    "geography": "Tees Valley",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E47000006",
+    "area_label": "Tees Valley",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "EVA Women's Aid",
+    "label": "EVA Women's Aid",
+    "type": "VCSE org",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "Harbour",
+    "label": "Harbour (domestic abuse services)",
+    "type": "VCSE org",
+    "tier": "sub-regional",
+    "geography": "Tees Valley",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E47000006",
+    "area_label": "Tees Valley",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "We Are With You",
+    "label": "We Are With You (substance misuse)",
+    "type": "VCSE org",
+    "tier": "regional",
+    "geography": "North East",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E12000001",
+    "area_label": "North East",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Intuitive Thinking Skills (ITS)",
+    "label": "Intuitive Thinking Skills (ITS)",
+    "type": "VCSE org",
+    "tier": "regional",
+    "geography": "North East",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E12000001",
+    "area_label": "North East",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "HM Courts & Tribunals Service",
+    "label": "HM Courts & Tribunals Service",
+    "type": "Statutory body",
+    "tier": "national",
+    "geography": "England",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E92000001",
+    "area_label": "England",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "HM Prison Service",
+    "label": "HM Prison Service",
+    "type": "Statutory body",
+    "tier": "national",
+    "geography": "England",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E92000001",
+    "area_label": "England",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Probation Service",
+    "label": "Probation Service",
+    "type": "Statutory body",
+    "tier": "regional",
+    "geography": "North East",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E12000001",
+    "area_label": "North East",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Thrive (R&C integrated service)",
+    "label": "Thrive — integrated drug, alcohol & DA service (R&C)",
+    "type": "VCSE org",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "MBCSP:team-east",
+    "label": "Middlesbrough Neighbourhood Team — East",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Middlesbrough",
+    "status": "confirmed",
+    "org": "Middlesbrough Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "Co-located multi-agency neighbourhood team (new neighbourhood model).",
+    "group": "Policing, safety & justice",
+    "area": "E06000002",
+    "area_label": "Middlesbrough",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "MBCSP:team-north",
+    "label": "Middlesbrough Neighbourhood Team — North",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Middlesbrough",
+    "status": "confirmed",
+    "org": "Middlesbrough Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "Co-located multi-agency neighbourhood team (new neighbourhood model).",
+    "group": "Policing, safety & justice",
+    "area": "E06000002",
+    "area_label": "Middlesbrough",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "MBCSP:team-west",
+    "label": "Middlesbrough Neighbourhood Team — West",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Middlesbrough",
+    "status": "confirmed",
+    "org": "Middlesbrough Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "Co-located multi-agency neighbourhood team (new neighbourhood model).",
+    "group": "Policing, safety & justice",
+    "area": "E06000002",
+    "area_label": "Middlesbrough",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "MBCSP:team-south",
+    "label": "Middlesbrough Neighbourhood Team — South",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Middlesbrough",
+    "status": "confirmed",
+    "org": "Middlesbrough Community Safety Partnership",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "Co-located multi-agency neighbourhood team (new neighbourhood model).",
+    "group": "Policing, safety & justice",
+    "area": "E06000002",
+    "area_label": "Middlesbrough",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "Hartlepool and Stockton Safeguarding Children Partnership",
+    "label": "Hartlepool and Stockton Safeguarding Children Partnership",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Hartlepool & Stockton",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "north-tees",
+    "area_label": "North Tees",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Hartlepool Health & Wellbeing Board",
+    "label": "Hartlepool Health & Wellbeing Board",
+    "type": "Partnership / board",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Public health & wellbeing",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Hartlepool Neighbourhood Safety Group",
+    "label": "Neighbourhood Safety Group (Hartlepool)",
+    "type": "Partnership / board",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Local Substance Misuse Partnership (Hartlepool)",
+    "label": "Local Substance Misuse Partnership (Hartlepool)",
+    "type": "Partnership / board",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Safe In Tees Valley",
+    "label": "Safe In Tees Valley (victim support)",
+    "type": "VCSE org",
+    "tier": "sub-regional",
+    "geography": "Tees Valley",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E47000006",
+    "area_label": "Tees Valley",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Recovery Connections",
+    "label": "Recovery Connections (substance misuse recovery)",
+    "type": "VCSE org",
+    "tier": "sub-regional",
+    "geography": "Tees Valley",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E47000006",
+    "area_label": "Tees Valley",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Change Grow Live (CGL)",
+    "label": "Change Grow Live (CGL)",
+    "type": "VCSE org",
+    "tier": "national",
+    "geography": "England",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E92000001",
+    "area_label": "England",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "The Moses Project",
+    "label": "The Moses Project (Stockton)",
+    "type": "VCSE org",
+    "tier": "local",
+    "geography": "Stockton-on-Tees",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E06000004",
+    "area_label": "Stockton-on-Tees",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Drive Partnership",
+    "label": "Drive Partnership (DA perpetrator programme)",
+    "type": "Representative body",
+    "tier": "national",
+    "geography": "England",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Policing, safety & justice",
+    "area": "E92000001",
+    "area_label": "England",
+    "ceremonial": ""
+   }
+  },
+  {
+   "data": {
+    "id": "Darlington Borough Council",
+    "label": "Darlington Borough Council",
+    "type": "Statutory body",
+    "tier": "sub-regional",
+    "geography": "Darlington",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "Unitary authority. Policed by Durham Constabulary; County Durham & Darlington justice area (outside the Cleveland CJB).",
+    "group": "Local government",
+    "area": "E06000005",
+    "area_label": "Darlington",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Darlington Community Safety Partnership",
+    "label": "Darlington Community Safety Partnership",
+    "type": "Partnership / board",
+    "tier": "local",
+    "geography": "Darlington",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "CSP for Darlington. Sits in the County Durham & Darlington justice area (Durham Constabulary), not the Cleveland CJB.",
+    "group": "Policing, safety & justice",
+    "area": "E06000005",
+    "area_label": "Darlington",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "STRIDE (Darlington recovery service)",
+    "label": "STRIDE — integrated recovery service (Darlington)",
+    "type": "VCSE org",
+    "tier": "local",
+    "geography": "Darlington",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "group": "Voluntary & community (VCSE)",
+    "area": "E06000005",
+    "area_label": "Darlington",
+    "ceremonial": "county-durham"
    }
   }
  ],
@@ -13917,16 +15190,6 @@
   },
   {
    "data": {
-    "source": "Middlesbrough Community Safety Partnership",
-    "target": "Cleveland Local Criminal Justice Board",
-    "label": "reports to",
-    "kind": "governance",
-    "weight": 1,
-    "id": "e545"
-   }
-  },
-  {
-   "data": {
     "source": "Cleveland Police",
     "target": "Redcar & Cleveland Community Safety Partnership",
     "label": "statutory partner in",
@@ -13943,16 +15206,6 @@
     "kind": "membership",
     "weight": 1,
     "id": "e547"
-   }
-  },
-  {
-   "data": {
-    "source": "Redcar & Cleveland Community Safety Partnership",
-    "target": "Cleveland Local Criminal Justice Board",
-    "label": "reports to",
-    "kind": "governance",
-    "weight": 1,
-    "id": "e548"
    }
   },
   {
@@ -14243,6 +15496,1076 @@
     "kind": "membership",
     "weight": 1,
     "id": "e577"
+   }
+  },
+  {
+   "data": {
+    "id": "e578",
+    "source": "Middlesbrough Community Safety Partnership",
+    "target": "South Tees Youth Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e579",
+    "source": "Redcar & Cleveland Community Safety Partnership",
+    "target": "South Tees Youth Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e580",
+    "source": "Cleveland Reducing Reoffending Group (RROG)",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e581",
+    "source": "Cleveland Out-of-Court-Disposal Scrutiny Panel",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e582",
+    "source": "Cleveland Victims and Witness Group",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e583",
+    "source": "Cleveland CJB Strategic Performance Group",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e584",
+    "source": "Intensive Supervision Court (Teesside)",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e585",
+    "source": "Secondary and Tertiary Interventions Group",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e586",
+    "source": "Cleveland Combatting Drugs Partnership",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e587",
+    "source": "Hartlepool Youth Justice Board",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e588",
+    "source": "Stockton Youth Justice Board",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e589",
+    "source": "CURV",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e590",
+    "source": "South Tees Youth Justice Board",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e591",
+    "source": "Cleveland Out-of-Court-Disposal Scrutiny Panel",
+    "target": "Cleveland Reducing Reoffending Group (RROG)",
+    "label": "scrutinises",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e592",
+    "source": "Women and Girls in the Criminal Justice System Sub-Group",
+    "target": "Cleveland Reducing Reoffending Group (RROG)",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e593",
+    "source": "Prevention, Diversion and Harm Reduction Sub-Group",
+    "target": "Cleveland Reducing Reoffending Group (RROG)",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e594",
+    "source": "Accommodation Sub-Group",
+    "target": "Cleveland Reducing Reoffending Group (RROG)",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e595",
+    "source": "Prevention, Early Intervention and Harm Reduction Sub-Group",
+    "target": "Cleveland Combatting Drugs Partnership",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e596",
+    "source": "Strengthening Treatment and Recovery Sub-Group",
+    "target": "Cleveland Combatting Drugs Partnership",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e597",
+    "source": "Reducing Supply and Drug Related Crimes Sub-Group",
+    "target": "Cleveland Combatting Drugs Partnership",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e598",
+    "source": "Tees Drugs Related Deaths Forum",
+    "target": "Cleveland Combatting Drugs Partnership",
+    "label": "feeds into",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e599",
+    "source": "Substance Misuse Partnerships (Cleveland)",
+    "target": "Cleveland Combatting Drugs Partnership",
+    "label": "feeds into",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e600",
+    "source": "Commodities Delivery Group",
+    "target": "Cleveland Combatting Drugs Partnership",
+    "label": "feeds into",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e601",
+    "source": "South Tees Changing Futures Programme",
+    "target": "Cleveland Combatting Drugs Partnership",
+    "label": "feeds into",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e602",
+    "source": "Safer Hartlepool Partnership",
+    "target": "Hartlepool Youth Justice Board",
+    "label": "links to",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e603",
+    "source": "Safer Stockton Partnership",
+    "target": "Stockton Youth Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e604",
+    "source": "Middlesbrough Domestic Abuse Strategic Partnership",
+    "target": "Middlesbrough Community Safety Partnership",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e605",
+    "source": "Redcar and Cleveland Domestic Abuse Partnership",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e606",
+    "source": "Hartlepool Domestic Abuse Strategic Partnership",
+    "target": "Safer Hartlepool Partnership",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e607",
+    "source": "Stockton-on-Tees Domestic Abuse Strategic Partnership",
+    "target": "Safer Stockton Partnership",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e608",
+    "source": "Regional DA CJS Forum",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "part of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e609",
+    "source": "MARAC",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "part of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e610",
+    "source": "MATAC",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "part of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e611",
+    "source": "MAPPA",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "part of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e612",
+    "source": "Retail Crime Group (Cleveland)",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "Cleveland-wide group",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e613",
+    "source": "Hate Crime Group (Cleveland)",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "Cleveland-wide group",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e614",
+    "source": "Operation Endurance (Cleveland)",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "Cleveland-wide group",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e615",
+    "source": "Tees Strategic Exploitation Group (TESG)",
+    "target": "South Tees Safeguarding Children Partnership",
+    "label": "responds to serious-violence topic of",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e616",
+    "source": "R&C CSP Executive",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "executive of",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e617",
+    "source": "R&C CSG — Coastal",
+    "target": "R&C CSP Executive",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e618",
+    "source": "R&C CSG — Greater Eston",
+    "target": "R&C CSP Executive",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e619",
+    "source": "R&C CSG — Guisborough & East Cleveland",
+    "target": "R&C CSP Executive",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e620",
+    "source": "R&C MAROB",
+    "target": "R&C CSP Executive",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e621",
+    "source": "R&C Problem Solving Group",
+    "target": "R&C CSP Executive",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e622",
+    "source": "R&C Prevent Bronze",
+    "target": "R&C CSP Executive",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e623",
+    "source": "R&C Protect & Prepare Group",
+    "target": "R&C CSP Executive",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e624",
+    "source": "R&C Tasking & Co-ordination Group",
+    "target": "R&C CSP Executive",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e625",
+    "source": "Cleveland Police",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e626",
+    "source": "Cleveland Fire Brigade",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e627",
+    "source": "Cleveland Office of the PCC",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e628",
+    "source": "RCVDA",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e629",
+    "source": "Tees Esk & Wear Valleys NHS FT",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e630",
+    "source": "NHS North East & North Cumbria ICB",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e631",
+    "source": "South Tees Youth Justice Board",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e632",
+    "source": "Accent Housing",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e633",
+    "source": "Beyond Housing",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e634",
+    "source": "Thirteen Housing",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e635",
+    "source": "EVA Women's Aid",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e636",
+    "source": "Harbour",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e637",
+    "source": "We Are With You",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e638",
+    "source": "Intuitive Thinking Skills (ITS)",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e639",
+    "source": "HM Courts & Tribunals Service",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e640",
+    "source": "HM Prison Service",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e641",
+    "source": "Probation Service",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e642",
+    "source": "Redcar & Cleveland Borough Council",
+    "target": "Thrive (R&C integrated service)",
+    "label": "commissions",
+    "kind": "commissioning",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e643",
+    "source": "Thrive (R&C integrated service)",
+    "target": "We Are With You",
+    "label": "delivered by",
+    "kind": "delivery",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e644",
+    "source": "Thrive (R&C integrated service)",
+    "target": "Harbour",
+    "label": "delivered by",
+    "kind": "delivery",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e645",
+    "source": "Thrive (R&C integrated service)",
+    "target": "Intuitive Thinking Skills (ITS)",
+    "label": "delivered by",
+    "kind": "delivery",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e646",
+    "source": "Thrive (R&C integrated service)",
+    "target": "Redcar & Cleveland Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e647",
+    "source": "MBC:CD-ECC",
+    "target": "Middlesbrough Community Safety Partnership",
+    "label": "chairs",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e648",
+    "source": "NHS North East & North Cumbria ICB",
+    "target": "Middlesbrough Community Safety Partnership",
+    "label": "responsible authority in (health)",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e649",
+    "source": "Probation Service",
+    "target": "Middlesbrough Community Safety Partnership",
+    "label": "responsible authority in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e650",
+    "source": "MBCSP:team-east",
+    "target": "Middlesbrough Community Safety Partnership",
+    "label": "part of",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e651",
+    "source": "MBCSP:team-north",
+    "target": "Middlesbrough Community Safety Partnership",
+    "label": "part of",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e652",
+    "source": "MBCSP:team-west",
+    "target": "Middlesbrough Community Safety Partnership",
+    "label": "part of",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e653",
+    "source": "MBCSP:team-south",
+    "target": "Middlesbrough Community Safety Partnership",
+    "label": "part of",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e654",
+    "source": "Safer Hartlepool Partnership",
+    "target": "Cleveland Local Criminal Justice Board",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e655",
+    "source": "Safer Hartlepool Partnership",
+    "target": "Teeswide Safeguarding Adults Board",
+    "label": "links to",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e656",
+    "source": "Safer Hartlepool Partnership",
+    "target": "Hartlepool and Stockton Safeguarding Children Partnership",
+    "label": "links to",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e657",
+    "source": "Safer Hartlepool Partnership",
+    "target": "Hartlepool Health & Wellbeing Board",
+    "label": "links to",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e658",
+    "source": "Safer Hartlepool Partnership",
+    "target": "Local Substance Misuse Partnership (Hartlepool)",
+    "label": "links to",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e659",
+    "source": "Safer Hartlepool Partnership",
+    "target": "CURV",
+    "label": "works with",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e660",
+    "source": "Hartlepool Neighbourhood Safety Group",
+    "target": "Safer Hartlepool Partnership",
+    "label": "part of",
+    "kind": "governance",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e661",
+    "source": "Hartlepool Borough Council",
+    "target": "Safer Hartlepool Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e662",
+    "source": "Cleveland Police",
+    "target": "Safer Hartlepool Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e663",
+    "source": "Cleveland Fire Brigade",
+    "target": "Safer Hartlepool Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e664",
+    "source": "Probation Service",
+    "target": "Safer Hartlepool Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e665",
+    "source": "NHS North East & North Cumbria ICB",
+    "target": "Safer Hartlepool Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e666",
+    "source": "Thirteen Housing",
+    "target": "Safer Hartlepool Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e667",
+    "source": "Safe In Tees Valley",
+    "target": "Safer Hartlepool Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e668",
+    "source": "Cleveland Office of the PCC",
+    "target": "Safer Hartlepool Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e669",
+    "source": "Stockton-on-Tees Borough Council",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e670",
+    "source": "Cleveland Police",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e671",
+    "source": "Cleveland Fire Brigade",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e672",
+    "source": "Probation Service",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e673",
+    "source": "HM Prison Service",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e674",
+    "source": "NHS North East & North Cumbria ICB",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e675",
+    "source": "CURV",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e676",
+    "source": "Harbour",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e677",
+    "source": "Recovery Connections",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e678",
+    "source": "Change Grow Live (CGL)",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e679",
+    "source": "The Moses Project",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e680",
+    "source": "Stockton Youth Justice Board",
+    "target": "Safer Stockton Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e681",
+    "source": "Drive Partnership",
+    "target": "Safer Stockton Partnership",
+    "label": "delivers perpetrator programme for",
+    "kind": "delivery",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e682",
+    "source": "Darlington Borough Council",
+    "target": "Darlington Community Safety Partnership",
+    "label": "responsible authority in",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e683",
+    "source": "Darlington Borough Council",
+    "target": "STRIDE (Darlington recovery service)",
+    "label": "commissions",
+    "kind": "commissioning",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e684",
+    "source": "STRIDE (Darlington recovery service)",
+    "target": "Darlington Community Safety Partnership",
+    "label": "partner in",
+    "kind": "membership",
+    "weight": 1
    }
   }
  ],
