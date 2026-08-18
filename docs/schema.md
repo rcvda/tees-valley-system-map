@@ -10,6 +10,36 @@ An interactive, self-hosted network map of the South Tees public system (Middles
 
 **`system-data.json` is the single source of truth.** The HTML is generated from it. (The old `nodes.csv` / `edges.csv` / `.xlsx` were for the abandoned Graph Commons route and are no longer maintained.)
 
+> **Note:** parts of this file describe the earlier South Tees / Middlesbrough-only build. The current
+> model is **Tees Valley-wide and coded** (~399 nodes / 578 edges) with switchable geography lenses —
+> see `geography.md` for the coded `area` / `ceremonial` / `constituency` scheme and the lenses.
+
+## People, appointments & mandates
+
+People are **first-class records** in a top-level `people` array, referenced by role nodes via
+`person_ref` — so a person exists once even when they hold several roles, and their provenance is
+layered into two distinct facts:
+
+- **Registry** (`people[]`): each has `id` (`person:<slug>`), `name`, and `kind` (`elected` |
+  `officer`). Elected members also carry `dc_id` (Democracy Club person ID) and a `mandate` block —
+  `office`, `election_id` ([uk-election-ids](https://democracyclub.github.io/uk-election-ids/)),
+  `source` (Democracy Club), `term` — the independent evidence they were *elected*. Officers have no
+  mandate.
+- **Appointment** (on the role node): `person_ref` links to the registry and `appointed` =
+  `{ source, as_of }` records the evidence this person holds *this* post (council cabinet record, org
+  chart, etc.) and the date confirmed.
+
+So a councillor's *mandate* (elected to a ward) is sourced once on the person; each *appointment*
+(Leader, a portfolio, a board seat) is sourced per role. Officers get an appointment source only.
+When a post-holder changes you touch `person` / `person_ref` / `appointed` — never the body's
+structural `source`. (On role nodes the old node-level `source` moved into `appointed.source`;
+organisation/body nodes keep `source`.)
+
+**Identifiers.** People use Democracy Club person IDs (`dc_id`); elections use uk-election-ids
+(`election_id`) — the same coded-ID discipline the org side uses (FTC OrgIDs). Current state: 121
+people (26 elected, 95 officer) migrated from the old flat `person` string; `dc_id` / `election_id` /
+mandate `source` / `term` are **stubbed (null) pending population from the Democracy Club API**.
+
 ## The model — two cross-cutting structures
 
 The core insight, per the English elected-mayor/cabinet model: political portfolios and officer directorates are **separate structures that deliberately cross-cut**. The map captures both as distinct relationship types:

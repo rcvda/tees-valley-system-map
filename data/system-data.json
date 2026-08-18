@@ -108,7 +108,12 @@
     "description": "Directly elected mayor of the combined authority",
     "group": "Local government",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:ben-houchen",
+    "appointed": {
+     "source": "",
+     "as_of": null
+    }
    }
   },
   {
@@ -124,11 +129,15 @@
     "person": "Chris Cooke",
     "portfolio": "",
     "description": "Directly elected Mayor of Middlesbrough (Labour); chairs the Executive",
-    "source": "https://middlesbrough.moderngov.co.uk/mgUserInfo.aspx?UID=153",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:chris-cooke",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgUserInfo.aspx?UID=153",
+     "as_of": null
+    }
    }
   },
   {
@@ -144,11 +153,15 @@
     "person": "Cllr Alec Brown",
     "portfolio": "",
     "description": "Leader of Redcar & Cleveland Borough Council; chairs the Cabinet",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=163",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:alec-brown",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=163",
+     "as_of": null
+    }
    }
   },
   {
@@ -349,7 +362,12 @@
     "description": "",
     "group": "Policing, safety & justice",
     "area": "cleveland",
-    "area_label": "Cleveland"
+    "area_label": "Cleveland",
+    "person_ref": "person:matt-storey",
+    "appointed": {
+     "source": "",
+     "as_of": null
+    }
    }
   },
   {
@@ -870,11 +888,15 @@
     "person": "Erik Scollay",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:erik-scollay",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -890,11 +912,15 @@
     "person": "Geoff Field",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:geoff-field",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -910,11 +936,15 @@
     "person": "Andrew Humble",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:andrew-humble",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -930,11 +960,15 @@
     "person": "Louise Grabham",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:louise-grabham",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -950,11 +984,15 @@
     "person": "Charlotte Benjamin",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:charlotte-benjamin",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -970,11 +1008,15 @@
     "person": "Richard Horniman",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:richard-horniman",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -990,11 +1032,15 @@
     "person": "Annabel Bates",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:annabel-bates",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1010,11 +1056,15 @@
     "person": "Chris Bates",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:chris-bates",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1030,11 +1080,15 @@
     "person": "Janine Hartley",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:janine-hartley",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1050,11 +1104,15 @@
     "person": "Marion Walker",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:marion-walker",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1070,11 +1128,15 @@
     "person": "Gaye Kirby",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:gaye-kirby",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1090,11 +1152,15 @@
     "person": "Craig Cowley",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:craig-cowley",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1110,11 +1176,15 @@
     "person": "Claire Walker",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:claire-walker",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1130,11 +1200,15 @@
     "person": "Andrew Lister",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:andrew-lister",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1150,11 +1224,15 @@
     "person": "Jeanette Savage",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:jeanette-savage",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1170,11 +1248,15 @@
     "person": "Justin Weston",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:justin-weston",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1190,11 +1272,15 @@
     "person": "Helen Dalby",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:helen-dalby",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1210,11 +1296,15 @@
     "person": "Mark Adams",
     "portfolio": "",
     "description": "Joint DPH shared across Middlesbrough and Redcar & Cleveland (legal name Christopher Mark Adams; known as Mark Adams).",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:mark-adams",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1230,11 +1320,15 @@
     "person": "Sarah Disbury",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:sarah-disbury",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1250,11 +1344,15 @@
     "person": "Suzanne Hodge",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:suzanne-hodge",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1270,11 +1368,15 @@
     "person": "Ruth Musicka",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:ruth-musicka",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1290,11 +1392,15 @@
     "person": "Kathryn Warnock",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:kathryn-warnock",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1310,11 +1416,15 @@
     "person": "Heather Weir",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:heather-weir",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1330,11 +1440,15 @@
     "person": "Claire Bailey",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:claire-bailey",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1350,11 +1464,15 @@
     "person": "Nicola Finnegan",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:nicola-finnegan",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1370,11 +1488,15 @@
     "person": "Andrew Glover",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:andrew-glover",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1390,11 +1512,15 @@
     "person": "Ann-Marie Wilson",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:ann-marie-wilson",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1410,11 +1536,15 @@
     "person": "Lynsey Zipfell",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:lynsey-zipfell",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1430,11 +1560,15 @@
     "person": "Catherine Cunningham",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:catherine-cunningham",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1450,11 +1584,15 @@
     "person": "Claire Holt",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:claire-holt",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1470,11 +1608,15 @@
     "person": "Sam Gilmore",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:sam-gilmore",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1490,11 +1632,15 @@
     "person": "Judith Hedgley",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:judith-hedgley",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1510,11 +1656,15 @@
     "person": "Lynsey Todd",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:lynsey-todd",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1530,11 +1680,15 @@
     "person": "Cllr Philippa Storey",
     "portfolio": "Education and Culture",
     "description": "",
-    "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:philippa-storey",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+     "as_of": null
+    }
    }
   },
   {
@@ -1550,11 +1704,15 @@
     "person": "Cllr Julia Rostron",
     "portfolio": "Adult Social Care",
     "description": "",
-    "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:julia-rostron",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+     "as_of": null
+    }
    }
   },
   {
@@ -1570,11 +1728,15 @@
     "person": "Cllr Luke Henman",
     "portfolio": "Children's Services",
     "description": "",
-    "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:luke-henman",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+     "as_of": null
+    }
    }
   },
   {
@@ -1590,11 +1752,15 @@
     "person": "Cllr Theo Furness",
     "portfolio": "Development",
     "description": "",
-    "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:theo-furness",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+     "as_of": null
+    }
    }
   },
   {
@@ -1610,11 +1776,15 @@
     "person": "Cllr Peter Gavigan",
     "portfolio": "Environment and Sustainability",
     "description": "",
-    "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:peter-gavigan",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+     "as_of": null
+    }
    }
   },
   {
@@ -1630,11 +1800,15 @@
     "person": "Cllr Nicky Walker",
     "portfolio": "Finance",
     "description": "",
-    "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:nicky-walker",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+     "as_of": null
+    }
    }
   },
   {
@@ -1650,11 +1824,15 @@
     "person": "Cllr Ian Blades",
     "portfolio": "Neighbourhoods",
     "description": "",
-    "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:ian-blades",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+     "as_of": null
+    }
    }
   },
   {
@@ -1670,11 +1848,15 @@
     "person": "Cllr Jan Ryles",
     "portfolio": "Public Health",
     "description": "",
-    "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:jan-ryles",
+    "appointed": {
+     "source": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+     "as_of": null
+    }
    }
   },
   {
@@ -1690,11 +1872,15 @@
     "person": "Caroline Cannon",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:caroline-cannon",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1730,11 +1916,15 @@
     "person": "Chris Rooney",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:chris-rooney",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1750,11 +1940,15 @@
     "person": "Mandy Davis",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:mandy-davis",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1770,11 +1964,15 @@
     "person": "Elaine Carter",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:elaine-carter",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1790,11 +1988,15 @@
     "person": "Lucy Cook",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:lucy-cook",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1810,11 +2012,15 @@
     "person": "Tracy Jeffs",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:tracy-jeffs",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1850,11 +2056,15 @@
     "person": "Carrie McGarry",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:carrie-mcgarry",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1870,11 +2080,15 @@
     "person": "Kay Dargue",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:kay-dargue",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1890,11 +2104,15 @@
     "person": "Trevor Dunn",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:trevor-dunn",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1910,11 +2128,15 @@
     "person": "Karen Smith",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:karen-smith",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -1930,11 +2152,15 @@
     "person": "Emma Cowley",
     "portfolio": "",
     "description": "",
-    "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
     "group": "Local government",
     "area": "E06000002",
     "area_label": "Middlesbrough",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:emma-cowley",
+    "appointed": {
+     "source": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4024,11 +4250,15 @@
     "person": "Brian Archer",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:brian-archer",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4044,11 +4274,15 @@
     "person": "Patrick Rice",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:patrick-rice",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4064,11 +4298,15 @@
     "person": "Danielle Swainston",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:danielle-swainston",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4084,11 +4322,15 @@
     "person": "Neil Shaw",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:neil-shaw",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4104,11 +4346,15 @@
     "person": "Phil Winstanley",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:phil-winstanley",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4124,11 +4370,15 @@
     "person": "Steve Newton",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:steve-newton",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4204,11 +4454,15 @@
     "person": "Vikki Smith",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:vikki-smith",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4224,11 +4478,15 @@
     "person": "Andrew Nixon",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:andrew-nixon",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4284,11 +4542,15 @@
     "person": "John Bulman",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:john-bulman",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4304,11 +4566,15 @@
     "person": "David Dunford",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:david-dunford",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4344,11 +4610,15 @@
     "person": "Robert Hoof",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:robert-hoof",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4364,11 +4634,15 @@
     "person": "Christopher Moon",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:christopher-moon",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4384,11 +4658,15 @@
     "person": "Andrew Carter",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:andrew-carter",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4684,11 +4962,15 @@
     "person": "Jon Doyle",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:jon-doyle",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4704,11 +4986,15 @@
     "person": "Clare Mahoney",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:clare-mahoney",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -4724,11 +5010,15 @@
     "person": "Victoria Wilson",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:victoria-wilson",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -5104,11 +5394,15 @@
     "person": "Cara Nimmo",
     "portfolio": "",
     "description": "",
-    "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:cara-nimmo",
+    "appointed": {
+     "source": "https://www.redcar-cleveland.gov.uk/sites/default/files/2026-02/Senior%20Management%20Structure.pdf",
+     "as_of": null
+    }
    }
   },
   {
@@ -5424,11 +5718,15 @@
     "person": "Cllr Carrie Richardson",
     "portfolio": "Climate and Culture",
     "description": "",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=169",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:carrie-richardson",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=169",
+     "as_of": null
+    }
    }
   },
   {
@@ -5444,11 +5742,15 @@
     "person": "Cllr Lisa Robson",
     "portfolio": "Adults",
     "description": "",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=294",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:lisa-robson",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=294",
+     "as_of": null
+    }
    }
   },
   {
@@ -5464,11 +5766,15 @@
     "person": "Cllr Lynn Pallister",
     "portfolio": "Growth and Enterprise",
     "description": "",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=122",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:lynn-pallister",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=122",
+     "as_of": null
+    }
    }
   },
   {
@@ -5484,11 +5790,15 @@
     "person": "Cllr Neil Bendelow",
     "portfolio": "Neighbourhoods",
     "description": "Cabinet Member for Neighbourhoods (current, per the live Cabinet page). Predecessor Cllr Adam Brook is now Chief of Staff to the Redcar MP. Confirmed by RCVDA (Peter Neal), 2026-07-25.",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=311",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:neil-bendelow",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=311",
+     "as_of": null
+    }
    }
   },
   {
@@ -5504,11 +5814,15 @@
     "person": "Cllr Ursula Earl",
     "portfolio": "Health, Welfare and Housing",
     "description": "",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=308",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:ursula-earl",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=308",
+     "as_of": null
+    }
    }
   },
   {
@@ -5524,11 +5838,15 @@
     "person": "Cllr Christopher Massey",
     "portfolio": "Resources",
     "description": "",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=157",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:christopher-massey",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=157",
+     "as_of": null
+    }
    }
   },
   {
@@ -5544,11 +5862,15 @@
     "person": "Cllr Carl Quartermain",
     "portfolio": "Highways and Transport",
     "description": "",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=139",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:carl-quartermain",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=139",
+     "as_of": null
+    }
    }
   },
   {
@@ -5564,11 +5886,15 @@
     "person": "Cllr Bill Suthers",
     "portfolio": "Children",
     "description": "",
-    "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=295",
     "group": "Local government",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:bill-suthers",
+    "appointed": {
+     "source": "https://rcbc.moderngov.co.uk/mgUserInfo.aspx?UID=295",
+     "as_of": null
+    }
    }
   },
   {
@@ -5584,11 +5910,15 @@
     "person": "Anna Turley",
     "portfolio": "",
     "description": "MP for the Redcar constituency (Labour). Confirmed by RCVDA (Peter Neal), 2026-07-25.",
-    "source": "",
     "group": "Parliament",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:anna-turley",
+    "appointed": {
+     "source": "",
+     "as_of": null
+    }
    }
   },
   {
@@ -5604,11 +5934,15 @@
     "person": "Cllr Adam Brook",
     "portfolio": "",
     "description": "Chief of Staff to Anna Turley MP; remains a Redcar & Cleveland councillor. Confirmed by RCVDA (Peter Neal), 2026-07-25.",
-    "source": "",
     "group": "Parliament",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:adam-brook",
+    "appointed": {
+     "source": "",
+     "as_of": null
+    }
    }
   },
   {
@@ -5624,12 +5958,16 @@
     "person": "Luke Myer",
     "portfolio": "",
     "description": "Constituency MP. Confirmed by RCVDA (Peter Neal), 2026-07-25.",
-    "source": "",
     "group": "Parliament",
     "area": "south-tees",
     "area_label": "South Tees",
     "ceremonial": "north-yorkshire",
-    "constituency": "Middlesbrough South and East Cleveland"
+    "constituency": "Middlesbrough South and East Cleveland",
+    "person_ref": "person:luke-myer",
+    "appointed": {
+     "source": "",
+     "as_of": null
+    }
    }
   },
   {
@@ -5645,12 +5983,16 @@
     "person": "Andy McDonald",
     "portfolio": "",
     "description": "Constituency MP. Confirmed by RCVDA (Peter Neal), 2026-07-25.",
-    "source": "",
     "group": "Parliament",
     "area": "E06000002",
     "area_label": "Middlesbrough",
     "ceremonial": "north-yorkshire",
-    "constituency": "Middlesbrough and Thornaby East"
+    "constituency": "Middlesbrough and Thornaby East",
+    "person_ref": "person:andy-mcdonald",
+    "appointed": {
+     "source": "",
+     "as_of": null
+    }
    }
   },
   {
@@ -5705,10 +6047,14 @@
     "person": "Stacey Hunter",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:stacey-hunter",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5724,10 +6070,14 @@
     "person": "Matt Neligan",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:matt-neligan",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5743,10 +6093,14 @@
     "person": "Neil Atkinson",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:neil-atkinson",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5762,10 +6116,14 @@
     "person": "Chris Hand",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:chris-hand",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5781,10 +6139,14 @@
     "person": "Emma Nunez",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:emma-nunez",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5800,10 +6162,14 @@
     "person": "Dr Mike Stewart",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:mike-stewart",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5819,10 +6185,14 @@
     "person": "Russell Nightingale",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:russell-nightingale",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5838,10 +6208,14 @@
     "person": "Rachael Metcalf",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:rachael-metcalf",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5857,10 +6231,14 @@
     "person": "Rob Armstrong",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:rob-armstrong",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5876,10 +6254,14 @@
     "person": "Professor Derek Bell OBE",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:professor-derek-bell-obe",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5895,10 +6277,14 @@
     "person": "Ali Wilson",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:ali-wilson",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5914,10 +6300,14 @@
     "person": "Professor Chris Day",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:professor-chris-day",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5933,10 +6323,14 @@
     "person": "Miriam Davidson",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:miriam-davidson",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5952,10 +6346,14 @@
     "person": "Mark Dias",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:mark-dias",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5971,10 +6369,14 @@
     "person": "Ken Readshaw",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:ken-readshaw",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -5990,10 +6392,14 @@
     "person": "David Redpath",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:david-redpath",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6009,10 +6415,14 @@
     "person": "Fay Scullion",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:fay-scullion",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6028,10 +6438,14 @@
     "person": "Celia Weldon",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
     "group": "NHS & acute care",
     "area": "E47000006",
-    "area_label": "Tees Valley"
+    "area_label": "Tees Valley",
+    "person_ref": "person:celia-weldon",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/meet-the-group-board/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6087,11 +6501,15 @@
     "person": "Cllr David Coupe",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
     "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:david-coupe",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6107,11 +6525,15 @@
     "person": "Cllr Ursula Earl",
     "portfolio": "",
     "description": "Also R&C Cabinet Member for Health, Welfare and Housing.",
-    "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
     "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:ursula-earl",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6127,11 +6549,15 @@
     "person": "Cllr Steve Watson",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
     "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:steve-watson",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6147,11 +6573,15 @@
     "person": "Carlie Johnston-Blyth",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
     "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:carlie-johnston-blyth",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6167,11 +6597,15 @@
     "person": "Dr David Kennedy",
     "portfolio": "",
     "description": "",
-    "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
     "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:david-kennedy",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6187,11 +6621,15 @@
     "person": "Linda Sergeant",
     "portfolio": "",
     "description": "Linda Sergeant works for Healthwatch.",
-    "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
     "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:linda-sergeant",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6207,11 +6645,15 @@
     "person": "Lee O'Brien",
     "portfolio": "",
     "description": "Lee O'Brien, CEO of Carers Together (Redcar-based carers charity).",
-    "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
     "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:lee-o-brien",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6287,11 +6729,15 @@
     "person": "Lee O'Brien (CEO)",
     "portfolio": "",
     "description": "Redcar-based carers charity. CEO Lee O'Brien. Confirmed by RCVDA 2026-07-25.",
-    "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
     "group": "Voluntary & community (VCSE)",
     "area": "E06000003",
     "area_label": "Redcar and Cleveland",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:lee-o-brien-ceo",
+    "appointed": {
+     "source": "https://www.southtees.nhs.uk/about/governors/nominated/",
+     "as_of": null
+    }
    }
   },
   {
@@ -6367,11 +6813,15 @@
     "person": "Dr Jan Lecouturier",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:jan-lecouturier",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6387,11 +6837,15 @@
     "person": "Professor Paul Crawshaw",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:professor-paul-crawshaw",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6407,11 +6861,15 @@
     "person": "Jen Berger",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:jen-berger",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6427,11 +6885,15 @@
     "person": "Hayley Cotson",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:hayley-cotson",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6447,11 +6909,15 @@
     "person": "Dr Danny Douglass",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:danny-douglass",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6467,11 +6933,15 @@
     "person": "Dave Hall",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:dave-hall",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6487,11 +6957,15 @@
     "person": "Kathryn Harbin",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:kathryn-harbin",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6507,11 +6981,15 @@
     "person": "Shehzad Raza",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:shehzad-raza",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6527,11 +7005,15 @@
     "person": "Rachel Summerhill",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:rachel-summerhill",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6547,11 +7029,15 @@
     "person": "Kim Upex",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:kim-upex",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -6567,11 +7053,15 @@
     "person": "Amy Ward",
     "portfolio": "",
     "description": "Situated in Public Health South Tees.",
-    "source": "https://hdrcsouthtees.co.uk/meet-the-team",
     "group": "Education & research",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "person_ref": "person:amy-ward",
+    "appointed": {
+     "source": "https://hdrcsouthtees.co.uk/meet-the-team",
+     "as_of": null
+    }
    }
   },
   {
@@ -13759,5 +14249,794 @@
  "sources": {
   "Middlesbrough Council — officers/leadership": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
   "Middlesbrough Council — Executive/cabinet": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146"
- }
+ },
+ "people": [
+  {
+   "id": "person:andy-mcdonald",
+   "name": "Andy McDonald",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "MP for Middlesbrough and Thornaby East",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:anna-turley",
+   "name": "Anna Turley",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Member of Parliament for Redcar",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:ben-houchen",
+   "name": "Ben Houchen",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Tees Valley Mayor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:chris-cooke",
+   "name": "Chris Cooke",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Mayor of Middlesbrough",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:adam-brook",
+   "name": "Cllr Adam Brook",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Chief of Staff, office of the Redcar MP",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:alec-brown",
+   "name": "Cllr Alec Brown",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:bill-suthers",
+   "name": "Cllr Bill Suthers",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:carl-quartermain",
+   "name": "Cllr Carl Quartermain",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:carrie-richardson",
+   "name": "Cllr Carrie Richardson",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:christopher-massey",
+   "name": "Cllr Christopher Massey",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:david-coupe",
+   "name": "Cllr David Coupe",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:ian-blades",
+   "name": "Cllr Ian Blades",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:jan-ryles",
+   "name": "Cllr Jan Ryles",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:julia-rostron",
+   "name": "Cllr Julia Rostron",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:lisa-robson",
+   "name": "Cllr Lisa Robson",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:luke-henman",
+   "name": "Cllr Luke Henman",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:lynn-pallister",
+   "name": "Cllr Lynn Pallister",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:neil-bendelow",
+   "name": "Cllr Neil Bendelow",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:nicky-walker",
+   "name": "Cllr Nicky Walker",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:peter-gavigan",
+   "name": "Cllr Peter Gavigan",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:philippa-storey",
+   "name": "Cllr Philippa Storey",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Deputy Mayor & Executive Member for Education and Culture",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:steve-watson",
+   "name": "Cllr Steve Watson",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:theo-furness",
+   "name": "Cllr Theo Furness",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:ursula-earl",
+   "name": "Cllr Ursula Earl",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Councillor",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:luke-myer",
+   "name": "Luke Myer",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "MP for Middlesbrough South and East Cleveland",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:matt-storey",
+   "name": "Matt Storey",
+   "kind": "elected",
+   "dc_id": null,
+   "mandate": {
+    "office": "Police and Crime Commissioner for Cleveland",
+    "election_id": null,
+    "source": null,
+    "term": null
+   }
+  },
+  {
+   "id": "person:ali-wilson",
+   "name": "Ali Wilson",
+   "kind": "officer"
+  },
+  {
+   "id": "person:amy-ward",
+   "name": "Amy Ward",
+   "kind": "officer"
+  },
+  {
+   "id": "person:andrew-carter",
+   "name": "Andrew Carter",
+   "kind": "officer"
+  },
+  {
+   "id": "person:andrew-glover",
+   "name": "Andrew Glover",
+   "kind": "officer"
+  },
+  {
+   "id": "person:andrew-humble",
+   "name": "Andrew Humble",
+   "kind": "officer"
+  },
+  {
+   "id": "person:andrew-lister",
+   "name": "Andrew Lister",
+   "kind": "officer"
+  },
+  {
+   "id": "person:andrew-nixon",
+   "name": "Andrew Nixon",
+   "kind": "officer"
+  },
+  {
+   "id": "person:ann-marie-wilson",
+   "name": "Ann-Marie Wilson",
+   "kind": "officer"
+  },
+  {
+   "id": "person:annabel-bates",
+   "name": "Annabel Bates",
+   "kind": "officer"
+  },
+  {
+   "id": "person:brian-archer",
+   "name": "Brian Archer",
+   "kind": "officer"
+  },
+  {
+   "id": "person:cara-nimmo",
+   "name": "Cara Nimmo",
+   "kind": "officer"
+  },
+  {
+   "id": "person:carlie-johnston-blyth",
+   "name": "Carlie Johnston-Blyth",
+   "kind": "officer"
+  },
+  {
+   "id": "person:caroline-cannon",
+   "name": "Caroline Cannon",
+   "kind": "officer"
+  },
+  {
+   "id": "person:carrie-mcgarry",
+   "name": "Carrie McGarry",
+   "kind": "officer"
+  },
+  {
+   "id": "person:catherine-cunningham",
+   "name": "Catherine Cunningham",
+   "kind": "officer"
+  },
+  {
+   "id": "person:celia-weldon",
+   "name": "Celia Weldon",
+   "kind": "officer"
+  },
+  {
+   "id": "person:charlotte-benjamin",
+   "name": "Charlotte Benjamin",
+   "kind": "officer"
+  },
+  {
+   "id": "person:chris-bates",
+   "name": "Chris Bates",
+   "kind": "officer"
+  },
+  {
+   "id": "person:chris-hand",
+   "name": "Chris Hand",
+   "kind": "officer"
+  },
+  {
+   "id": "person:chris-rooney",
+   "name": "Chris Rooney",
+   "kind": "officer"
+  },
+  {
+   "id": "person:christopher-moon",
+   "name": "Christopher Moon",
+   "kind": "officer"
+  },
+  {
+   "id": "person:claire-bailey",
+   "name": "Claire Bailey",
+   "kind": "officer"
+  },
+  {
+   "id": "person:claire-holt",
+   "name": "Claire Holt",
+   "kind": "officer"
+  },
+  {
+   "id": "person:claire-walker",
+   "name": "Claire Walker",
+   "kind": "officer"
+  },
+  {
+   "id": "person:clare-mahoney",
+   "name": "Clare Mahoney",
+   "kind": "officer"
+  },
+  {
+   "id": "person:craig-cowley",
+   "name": "Craig Cowley",
+   "kind": "officer"
+  },
+  {
+   "id": "person:danielle-swainston",
+   "name": "Danielle Swainston",
+   "kind": "officer"
+  },
+  {
+   "id": "person:dave-hall",
+   "name": "Dave Hall",
+   "kind": "officer"
+  },
+  {
+   "id": "person:david-dunford",
+   "name": "David Dunford",
+   "kind": "officer"
+  },
+  {
+   "id": "person:david-redpath",
+   "name": "David Redpath",
+   "kind": "officer"
+  },
+  {
+   "id": "person:danny-douglass",
+   "name": "Dr Danny Douglass",
+   "kind": "officer"
+  },
+  {
+   "id": "person:david-kennedy",
+   "name": "Dr David Kennedy",
+   "kind": "officer"
+  },
+  {
+   "id": "person:jan-lecouturier",
+   "name": "Dr Jan Lecouturier",
+   "kind": "officer"
+  },
+  {
+   "id": "person:mike-stewart",
+   "name": "Dr Mike Stewart",
+   "kind": "officer"
+  },
+  {
+   "id": "person:elaine-carter",
+   "name": "Elaine Carter",
+   "kind": "officer"
+  },
+  {
+   "id": "person:emma-cowley",
+   "name": "Emma Cowley",
+   "kind": "officer"
+  },
+  {
+   "id": "person:emma-nunez",
+   "name": "Emma Nunez",
+   "kind": "officer"
+  },
+  {
+   "id": "person:erik-scollay",
+   "name": "Erik Scollay",
+   "kind": "officer"
+  },
+  {
+   "id": "person:fay-scullion",
+   "name": "Fay Scullion",
+   "kind": "officer"
+  },
+  {
+   "id": "person:gaye-kirby",
+   "name": "Gaye Kirby",
+   "kind": "officer"
+  },
+  {
+   "id": "person:geoff-field",
+   "name": "Geoff Field",
+   "kind": "officer"
+  },
+  {
+   "id": "person:hayley-cotson",
+   "name": "Hayley Cotson",
+   "kind": "officer"
+  },
+  {
+   "id": "person:heather-weir",
+   "name": "Heather Weir",
+   "kind": "officer"
+  },
+  {
+   "id": "person:helen-dalby",
+   "name": "Helen Dalby",
+   "kind": "officer"
+  },
+  {
+   "id": "person:janine-hartley",
+   "name": "Janine Hartley",
+   "kind": "officer"
+  },
+  {
+   "id": "person:jeanette-savage",
+   "name": "Jeanette Savage",
+   "kind": "officer"
+  },
+  {
+   "id": "person:jen-berger",
+   "name": "Jen Berger",
+   "kind": "officer"
+  },
+  {
+   "id": "person:john-bulman",
+   "name": "John Bulman",
+   "kind": "officer"
+  },
+  {
+   "id": "person:jon-doyle",
+   "name": "Jon Doyle",
+   "kind": "officer"
+  },
+  {
+   "id": "person:judith-hedgley",
+   "name": "Judith Hedgley",
+   "kind": "officer"
+  },
+  {
+   "id": "person:justin-weston",
+   "name": "Justin Weston",
+   "kind": "officer"
+  },
+  {
+   "id": "person:karen-smith",
+   "name": "Karen Smith",
+   "kind": "officer"
+  },
+  {
+   "id": "person:kathryn-harbin",
+   "name": "Kathryn Harbin",
+   "kind": "officer"
+  },
+  {
+   "id": "person:kathryn-warnock",
+   "name": "Kathryn Warnock",
+   "kind": "officer"
+  },
+  {
+   "id": "person:kay-dargue",
+   "name": "Kay Dargue",
+   "kind": "officer"
+  },
+  {
+   "id": "person:ken-readshaw",
+   "name": "Ken Readshaw",
+   "kind": "officer"
+  },
+  {
+   "id": "person:kim-upex",
+   "name": "Kim Upex",
+   "kind": "officer"
+  },
+  {
+   "id": "person:lee-o-brien",
+   "name": "Lee O'Brien",
+   "kind": "officer"
+  },
+  {
+   "id": "person:lee-o-brien-ceo",
+   "name": "Lee O'Brien (CEO)",
+   "kind": "officer"
+  },
+  {
+   "id": "person:linda-sergeant",
+   "name": "Linda Sergeant",
+   "kind": "officer"
+  },
+  {
+   "id": "person:louise-grabham",
+   "name": "Louise Grabham",
+   "kind": "officer"
+  },
+  {
+   "id": "person:lucy-cook",
+   "name": "Lucy Cook",
+   "kind": "officer"
+  },
+  {
+   "id": "person:lynsey-todd",
+   "name": "Lynsey Todd",
+   "kind": "officer"
+  },
+  {
+   "id": "person:lynsey-zipfell",
+   "name": "Lynsey Zipfell",
+   "kind": "officer"
+  },
+  {
+   "id": "person:mandy-davis",
+   "name": "Mandy Davis",
+   "kind": "officer"
+  },
+  {
+   "id": "person:marion-walker",
+   "name": "Marion Walker",
+   "kind": "officer"
+  },
+  {
+   "id": "person:mark-adams",
+   "name": "Mark Adams",
+   "kind": "officer"
+  },
+  {
+   "id": "person:mark-dias",
+   "name": "Mark Dias",
+   "kind": "officer"
+  },
+  {
+   "id": "person:matt-neligan",
+   "name": "Matt Neligan",
+   "kind": "officer"
+  },
+  {
+   "id": "person:miriam-davidson",
+   "name": "Miriam Davidson",
+   "kind": "officer"
+  },
+  {
+   "id": "person:neil-atkinson",
+   "name": "Neil Atkinson",
+   "kind": "officer"
+  },
+  {
+   "id": "person:neil-shaw",
+   "name": "Neil Shaw",
+   "kind": "officer"
+  },
+  {
+   "id": "person:nicola-finnegan",
+   "name": "Nicola Finnegan",
+   "kind": "officer"
+  },
+  {
+   "id": "person:patrick-rice",
+   "name": "Patrick Rice",
+   "kind": "officer"
+  },
+  {
+   "id": "person:phil-winstanley",
+   "name": "Phil Winstanley",
+   "kind": "officer"
+  },
+  {
+   "id": "person:professor-chris-day",
+   "name": "Professor Chris Day",
+   "kind": "officer"
+  },
+  {
+   "id": "person:professor-derek-bell-obe",
+   "name": "Professor Derek Bell OBE",
+   "kind": "officer"
+  },
+  {
+   "id": "person:professor-paul-crawshaw",
+   "name": "Professor Paul Crawshaw",
+   "kind": "officer"
+  },
+  {
+   "id": "person:rachael-metcalf",
+   "name": "Rachael Metcalf",
+   "kind": "officer"
+  },
+  {
+   "id": "person:rachel-summerhill",
+   "name": "Rachel Summerhill",
+   "kind": "officer"
+  },
+  {
+   "id": "person:richard-horniman",
+   "name": "Richard Horniman",
+   "kind": "officer"
+  },
+  {
+   "id": "person:rob-armstrong",
+   "name": "Rob Armstrong",
+   "kind": "officer"
+  },
+  {
+   "id": "person:robert-hoof",
+   "name": "Robert Hoof",
+   "kind": "officer"
+  },
+  {
+   "id": "person:russell-nightingale",
+   "name": "Russell Nightingale",
+   "kind": "officer"
+  },
+  {
+   "id": "person:ruth-musicka",
+   "name": "Ruth Musicka",
+   "kind": "officer"
+  },
+  {
+   "id": "person:sam-gilmore",
+   "name": "Sam Gilmore",
+   "kind": "officer"
+  },
+  {
+   "id": "person:sarah-disbury",
+   "name": "Sarah Disbury",
+   "kind": "officer"
+  },
+  {
+   "id": "person:shehzad-raza",
+   "name": "Shehzad Raza",
+   "kind": "officer"
+  },
+  {
+   "id": "person:stacey-hunter",
+   "name": "Stacey Hunter",
+   "kind": "officer"
+  },
+  {
+   "id": "person:steve-newton",
+   "name": "Steve Newton",
+   "kind": "officer"
+  },
+  {
+   "id": "person:suzanne-hodge",
+   "name": "Suzanne Hodge",
+   "kind": "officer"
+  },
+  {
+   "id": "person:tracy-jeffs",
+   "name": "Tracy Jeffs",
+   "kind": "officer"
+  },
+  {
+   "id": "person:trevor-dunn",
+   "name": "Trevor Dunn",
+   "kind": "officer"
+  },
+  {
+   "id": "person:victoria-wilson",
+   "name": "Victoria Wilson",
+   "kind": "officer"
+  },
+  {
+   "id": "person:vikki-smith",
+   "name": "Vikki Smith",
+   "kind": "officer"
+  }
+ ]
 }
