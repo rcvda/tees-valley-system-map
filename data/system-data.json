@@ -269,7 +269,7 @@
     "person": "[verify]",
     "portfolio": "",
     "description": "",
-    "group": "Local government",
+    "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
     "ceremonial": "north-yorkshire"
@@ -9765,16 +9765,16 @@
     "status": "confirmed",
     "org": "",
     "subtype": "member",
-    "person": "Cllr Pamela Hargreaves",
+    "person": "Cllr Graham Harrison",
     "portfolio": "",
     "description": "Leader of Hartlepool Borough Council; represents the council on the TVCA Cabinet",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
     "ceremonial": "county-durham",
-    "person_ref": "person:pamela-hargreaves",
+    "person_ref": "person:graham-harrison",
     "appointed": {
-     "source": "https://www.hartlepool.gov.uk/councillors/153/pamela_hargreaves",
+     "source": "https://www.hartlepool.gov.uk/leadership",
      "as_of": null
     }
    }
@@ -9825,6 +9825,82 @@
      "source": "https://democracy.darlington.gov.uk/mgUserInfo.aspx?UID=157",
      "as_of": null
     }
+   }
+  },
+  {
+   "data": {
+    "id": "Substitute Cabinet Member — Redcar & Cleveland BC",
+    "label": "Substitute Cabinet Member — Redcar & Cleveland BC",
+    "type": "Role / post",
+    "tier": "local",
+    "geography": "Redcar & Cleveland",
+    "status": "verify",
+    "org": "",
+    "subtype": "member",
+    "person": "[verify]",
+    "portfolio": "",
+    "description": "Substitute member for Redcar & Cleveland Borough Council on the TVCA Cabinet — post-holder to verify",
+    "group": "Local government",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
+  },
+  {
+   "data": {
+    "id": "Substitute Cabinet Member — Stockton-on-Tees BC",
+    "label": "Substitute Cabinet Member — Stockton-on-Tees BC",
+    "type": "Role / post",
+    "tier": "local",
+    "geography": "Stockton-on-Tees",
+    "status": "verify",
+    "org": "",
+    "subtype": "member",
+    "person": "[verify]",
+    "portfolio": "",
+    "description": "Substitute member for Stockton-on-Tees Borough Council on the TVCA Cabinet — post-holder to verify",
+    "group": "Local government",
+    "area": "E06000004",
+    "area_label": "Stockton-on-Tees",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Substitute Cabinet Member — Hartlepool BC",
+    "label": "Substitute Cabinet Member — Hartlepool BC",
+    "type": "Role / post",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "",
+    "subtype": "member",
+    "person": "[verify]",
+    "portfolio": "",
+    "description": "Substitute member for Hartlepool Borough Council on the TVCA Cabinet — post-holder to verify",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Substitute Cabinet Member — Darlington BC",
+    "label": "Substitute Cabinet Member — Darlington BC",
+    "type": "Role / post",
+    "tier": "local",
+    "geography": "Darlington",
+    "status": "verify",
+    "org": "",
+    "subtype": "member",
+    "person": "[verify]",
+    "portfolio": "",
+    "description": "Substitute member for Darlington Borough Council on the TVCA Cabinet — post-holder to verify",
+    "group": "Local government",
+    "area": "E06000005",
+    "area_label": "Darlington",
+    "ceremonial": "county-durham"
    }
   }
  ],
@@ -10374,7 +10450,7 @@
     "id": "e54",
     "source": "Mayor of Middlesbrough",
     "target": "Tees Valley Combined Authority Cabinet",
-    "label": "member of",
+    "label": "cabinet member of",
     "kind": "membership",
     "weight": 2
    }
@@ -16802,6 +16878,46 @@
     "kind": "membership",
     "weight": 2
    }
+  },
+  {
+   "data": {
+    "id": "e694",
+    "source": "Substitute Cabinet Member — Redcar & Cleveland BC",
+    "target": "Tees Valley Combined Authority Cabinet",
+    "label": "substitute member of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e695",
+    "source": "Substitute Cabinet Member — Stockton-on-Tees BC",
+    "target": "Tees Valley Combined Authority Cabinet",
+    "label": "substitute member of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e696",
+    "source": "Substitute Cabinet Member — Hartlepool BC",
+    "target": "Tees Valley Combined Authority Cabinet",
+    "label": "substitute member of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e697",
+    "source": "Substitute Cabinet Member — Darlington BC",
+    "target": "Tees Valley Combined Authority Cabinet",
+    "label": "substitute member of",
+    "kind": "membership",
+    "weight": 1
+   }
   }
  ],
  "sources": {
@@ -17618,19 +17734,6 @@
    "kind": "officer"
   },
   {
-   "id": "person:pamela-hargreaves",
-   "name": "Cllr Pamela Hargreaves",
-   "kind": "elected",
-   "dc_id": "80297",
-   "mandate": {
-    "office": "Councillor, Manor House",
-    "election_id": "local.hartlepool.manor-house.2022-05-05",
-    "source": "https://candidates.democracyclub.org.uk/person/80297/",
-    "term": "2022–2026",
-    "party": "Labour Party"
-   }
-  },
-  {
    "id": "person:lisa-evans",
    "name": "Cllr Lisa Evans",
    "kind": "elected",
@@ -17654,6 +17757,19 @@
     "source": "https://candidates.democracyclub.org.uk/person/59500/",
     "term": "2023–2027",
     "party": "Labour Party"
+   }
+  },
+  {
+   "id": "person:graham-harrison",
+   "name": "Cllr Graham Harrison",
+   "kind": "elected",
+   "dc_id": "53348",
+   "mandate": {
+    "office": "Councillor, Burn Valley",
+    "election_id": "local.hartlepool.burn-valley.2026-05-07",
+    "source": "https://candidates.democracyclub.org.uk/person/53348/",
+    "term": "2026–2030",
+    "party": "Reform UK"
    }
   }
  ]
