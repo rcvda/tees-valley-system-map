@@ -16702,9 +16702,10 @@
    "dc_id": "54736",
    "mandate": {
     "office": "Chief of Staff, office of the Redcar MP",
-    "election_id": null,
+    "election_id": "local.redcar-and-cleveland.grangetown.2023-05-04",
     "source": "https://candidates.democracyclub.org.uk/person/54736/",
-    "term": null
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16723,11 +16724,11 @@
    "id": "person:bill-suthers",
    "name": "Cllr Bill Suthers",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "107550",
    "mandate": {
     "office": "Councillor, Guisborough",
     "election_id": "local.redcar-and-cleveland.guisborough.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.guisborough.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/107550/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16736,11 +16737,11 @@
    "id": "person:carl-quartermain",
    "name": "Cllr Carl Quartermain",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "50924",
    "mandate": {
     "office": "Councillor, Coatham",
     "election_id": "local.redcar-and-cleveland.coatham.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.coatham.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/50924/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16749,11 +16750,11 @@
    "id": "person:carrie-richardson",
    "name": "Cllr Carrie Richardson",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "103818",
    "mandate": {
     "office": "Councillor, Newcomen",
     "election_id": "local.redcar-and-cleveland.newcomen.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.newcomen.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/103818/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16762,11 +16763,11 @@
    "id": "person:christopher-massey",
    "name": "Cllr Christopher Massey",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "52601",
    "mandate": {
     "office": "Councillor, Eston",
     "election_id": "local.redcar-and-cleveland.eston.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.eston.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/52601/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16775,11 +16776,11 @@
    "id": "person:david-coupe",
    "name": "Cllr David Coupe",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "56223",
    "mandate": {
     "office": "Councillor, Stainton Thornton",
     "election_id": "local.middlesbrough.stainton-thornton.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.stainton-thornton.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/56223/",
     "term": "2023–2027",
     "party": "Conservative and Unionist Party"
    }
@@ -16788,11 +16789,11 @@
    "id": "person:ian-blades",
    "name": "Cllr Ian Blades",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "51274",
    "mandate": {
     "office": "Councillor, Berwick Hills Pallister",
     "election_id": "local.middlesbrough.berwick-hills-pallister.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.berwick-hills-pallister.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/51274/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16801,11 +16802,11 @@
    "id": "person:jan-ryles",
    "name": "Cllr Jan Ryles",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "99458",
    "mandate": {
     "office": "Councillor, North Ormesby",
     "election_id": "local.middlesbrough.north-ormesby.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.north-ormesby.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/99458/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16814,11 +16815,11 @@
    "id": "person:julia-rostron",
    "name": "Cllr Julia Rostron",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "56208",
    "mandate": {
     "office": "Councillor, Park",
     "election_id": "local.middlesbrough.park.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.park.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/56208/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16829,11 +16830,12 @@
    "kind": "elected",
    "dc_id": "52850",
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
+    "office": "Councillor, Guisborough",
+    "election_id": "local.redcar-and-cleveland.guisborough.2023-05-04",
     "source": "https://candidates.democracyclub.org.uk/person/52850/",
-    "term": null,
-    "note": "Elected 2023 as Lisa Belshaw (name since changed to Robson)."
+    "term": "2023–2027",
+    "note": "Elected 2023 as Lisa Belshaw (name since changed to Robson).",
+    "party": "Labour Party"
    }
   },
   {
@@ -16842,21 +16844,22 @@
    "kind": "elected",
    "dc_id": "96441",
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
+    "office": "Councillor, Acklam",
+    "election_id": "local.middlesbrough.acklam.by.2024-07-04",
     "source": "https://candidates.democracyclub.org.uk/person/96441/",
-    "term": null
+    "term": "2024–2028",
+    "party": "Labour Party"
    }
   },
   {
    "id": "person:lynn-pallister",
    "name": "Cllr Lynn Pallister",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "52609",
    "mandate": {
     "office": "Councillor, Grangetown",
     "election_id": "local.redcar-and-cleveland.grangetown.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.grangetown.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/52609/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16865,11 +16868,11 @@
    "id": "person:neil-bendelow",
    "name": "Cllr Neil Bendelow",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "55453",
    "mandate": {
     "office": "Councillor, South Bank",
     "election_id": "local.redcar-and-cleveland.south-bank.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.south-bank.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/55453/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16878,11 +16881,11 @@
    "id": "person:nicky-walker",
    "name": "Cllr Nicky Walker",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "51812",
    "mandate": {
     "office": "Councillor, Hemlington",
     "election_id": "local.middlesbrough.hemlington.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.hemlington.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/51812/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16891,11 +16894,11 @@
    "id": "person:peter-gavigan",
    "name": "Cllr Peter Gavigan",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "98471",
    "mandate": {
     "office": "Councillor, Longlands Beechwood",
     "election_id": "local.middlesbrough.longlands-beechwood.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.longlands-beechwood.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/98471/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16907,9 +16910,10 @@
    "dc_id": "56165",
    "mandate": {
     "office": "Deputy Mayor & Executive Member for Education and Culture",
-    "election_id": null,
+    "election_id": "local.middlesbrough.linthorpe.2023-05-04",
     "source": "https://candidates.democracyclub.org.uk/person/56165/",
-    "term": null
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16919,9 +16923,9 @@
    "dc_id": "50976",
    "mandate": {
     "office": "Councillor, Northallerton North & Brompton",
-    "election_id": null,
+    "election_id": "local.north-yorkshire.northallerton-north-brompton.2022-05-05",
     "source": "https://candidates.democracyclub.org.uk/person/50976/",
-    "term": "2022–2027",
+    "term": "2022–2026",
     "party": "Conservative and Unionist Party"
    }
   },
@@ -16929,11 +16933,11 @@
    "id": "person:theo-furness",
    "name": "Cllr Theo Furness",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "56206",
    "mandate": {
     "office": "Councillor, Park",
     "election_id": "local.middlesbrough.park.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.park.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/56206/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16942,11 +16946,11 @@
    "id": "person:ursula-earl",
    "name": "Cllr Ursula Earl",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "54956",
    "mandate": {
     "office": "Councillor, Skelton West",
     "election_id": "local.redcar-and-cleveland.skelton-west.2023-05-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.skelton-west.2023-05-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/54956/",
     "term": "2023–2027",
     "party": "Labour Party"
    }
@@ -16955,11 +16959,11 @@
    "id": "person:luke-myer",
    "name": "Luke Myer",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "80621",
    "mandate": {
     "office": "MP for Middlesbrough South and East Cleveland",
     "election_id": "parl.middlesbrough-south-and-east-cleveland.2024-07-04",
-    "source": "https://candidates.democracyclub.org.uk/elections/parl.middlesbrough-south-and-east-cleveland.2024-07-04/",
+    "source": "https://candidates.democracyclub.org.uk/person/80621/",
     "term": "2024–2029",
     "party": "Labour Party"
    }
