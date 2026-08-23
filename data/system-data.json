@@ -9735,6 +9735,25 @@
     "area_label": "Darlington",
     "ceremonial": "county-durham"
    }
+  },
+  {
+   "data": {
+    "id": "Tees All Age Autism Partnership",
+    "label": "Tees All Age Autism Partnership",
+    "type": "Partnership / board",
+    "tier": "sub-regional",
+    "geography": "Tees",
+    "status": "verify",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "All-age autism partnership across the four Tees authorities (Hartlepool, Middlesbrough, Redcar & Cleveland, Stockton) with Tees, Esk & Wear Valleys NHS FT and NHS North East & North Cumbria ICB (which replaced the former Tees CCGs).",
+    "group": "Public health & wellbeing",
+    "area": "cleveland",
+    "area_label": "Cleveland",
+    "ceremonial": ""
+   }
   }
  ],
  "edges": [
@@ -16567,6 +16586,60 @@
     "kind": "membership",
     "weight": 1
    }
+  },
+  {
+   "data": {
+    "source": "Hartlepool Borough Council",
+    "target": "Tees All Age Autism Partnership",
+    "label": "member of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "source": "Middlesbrough Council",
+    "target": "Tees All Age Autism Partnership",
+    "label": "member of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "source": "Redcar & Cleveland Borough Council",
+    "target": "Tees All Age Autism Partnership",
+    "label": "member of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "source": "Stockton-on-Tees Borough Council",
+    "target": "Tees All Age Autism Partnership",
+    "label": "member of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "source": "Tees Esk & Wear Valleys NHS FT",
+    "target": "Tees All Age Autism Partnership",
+    "label": "member of",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "source": "NHS North East & North Cumbria ICB",
+    "target": "Tees All Age Autism Partnership",
+    "label": "member of",
+    "kind": "membership",
+    "weight": 1
+   }
   }
  ],
  "sources": {
@@ -16626,11 +16699,11 @@
    "id": "person:adam-brook",
    "name": "Cllr Adam Brook",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "54736",
    "mandate": {
     "office": "Chief of Staff, office of the Redcar MP",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/54736/",
     "term": null
    }
   },
@@ -16652,10 +16725,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Guisborough",
+    "election_id": "local.redcar-and-cleveland.guisborough.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.guisborough.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16664,10 +16738,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Coatham",
+    "election_id": "local.redcar-and-cleveland.coatham.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.coatham.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16676,10 +16751,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Newcomen",
+    "election_id": "local.redcar-and-cleveland.newcomen.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.newcomen.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16688,10 +16764,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Eston",
+    "election_id": "local.redcar-and-cleveland.eston.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.eston.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16700,10 +16777,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Stainton Thornton",
+    "election_id": "local.middlesbrough.stainton-thornton.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.stainton-thornton.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Conservative and Unionist Party"
    }
   },
   {
@@ -16712,10 +16790,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Berwick Hills Pallister",
+    "election_id": "local.middlesbrough.berwick-hills-pallister.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.berwick-hills-pallister.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16724,10 +16803,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, North Ormesby",
+    "election_id": "local.middlesbrough.north-ormesby.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.north-ormesby.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16736,33 +16816,35 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Park",
+    "election_id": "local.middlesbrough.park.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.park.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
    "id": "person:lisa-robson",
    "name": "Cllr Lisa Robson",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "52850",
    "mandate": {
     "office": "Councillor",
     "election_id": null,
-    "source": null,
-    "term": null
+    "source": "https://candidates.democracyclub.org.uk/person/52850/",
+    "term": null,
+    "note": "Elected 2023 as Lisa Belshaw (name since changed to Robson)."
    }
   },
   {
    "id": "person:luke-henman",
    "name": "Cllr Luke Henman",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "96441",
    "mandate": {
     "office": "Councillor",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/96441/",
     "term": null
    }
   },
@@ -16772,10 +16854,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Grangetown",
+    "election_id": "local.redcar-and-cleveland.grangetown.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.grangetown.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16784,10 +16867,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, South Bank",
+    "election_id": "local.redcar-and-cleveland.south-bank.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.south-bank.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16796,10 +16880,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Hemlington",
+    "election_id": "local.middlesbrough.hemlington.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.hemlington.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16808,21 +16893,22 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Longlands Beechwood",
+    "election_id": "local.middlesbrough.longlands-beechwood.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.longlands-beechwood.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
    "id": "person:philippa-storey",
    "name": "Cllr Philippa Storey",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "56165",
    "mandate": {
     "office": "Deputy Mayor & Executive Member for Education and Culture",
     "election_id": null,
-    "source": null,
+    "source": "https://candidates.democracyclub.org.uk/person/56165/",
     "term": null
    }
   },
@@ -16830,12 +16916,13 @@
    "id": "person:steve-watson",
    "name": "Cllr Steve Watson",
    "kind": "elected",
-   "dc_id": null,
+   "dc_id": "50976",
    "mandate": {
-    "office": "Councillor",
+    "office": "Councillor, Northallerton North & Brompton",
     "election_id": null,
-    "source": null,
-    "term": null
+    "source": "https://candidates.democracyclub.org.uk/person/50976/",
+    "term": "2022–2027",
+    "party": "Conservative and Unionist Party"
    }
   },
   {
@@ -16844,10 +16931,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Park",
+    "election_id": "local.middlesbrough.park.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.middlesbrough.park.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16856,10 +16944,11 @@
    "kind": "elected",
    "dc_id": null,
    "mandate": {
-    "office": "Councillor",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "office": "Councillor, Skelton West",
+    "election_id": "local.redcar-and-cleveland.skelton-west.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/local.redcar-and-cleveland.skelton-west.2023-05-04/",
+    "term": "2023–2027",
+    "party": "Labour Party"
    }
   },
   {
@@ -16869,9 +16958,10 @@
    "dc_id": null,
    "mandate": {
     "office": "MP for Middlesbrough South and East Cleveland",
-    "election_id": null,
-    "source": null,
-    "term": null
+    "election_id": "parl.middlesbrough-south-and-east-cleveland.2024-07-04",
+    "source": "https://candidates.democracyclub.org.uk/elections/parl.middlesbrough-south-and-east-cleveland.2024-07-04/",
+    "term": "2024–2029",
+    "party": "Labour Party"
    }
   },
   {
