@@ -16918,6 +16918,46 @@
     "kind": "membership",
     "weight": 1
    }
+  },
+  {
+   "data": {
+    "id": "e702",
+    "source": "Substitute Cabinet Member — Redcar & Cleveland BC",
+    "target": "Leader, Redcar & Cleveland BC",
+    "label": "substitute for",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e703",
+    "source": "Substitute Cabinet Member — Stockton-on-Tees BC",
+    "target": "Leader, Stockton-on-Tees BC",
+    "label": "substitute for",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e704",
+    "source": "Substitute Cabinet Member — Hartlepool BC",
+    "target": "Leader, Hartlepool BC",
+    "label": "substitute for",
+    "kind": "membership",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e705",
+    "source": "Substitute Cabinet Member — Darlington BC",
+    "target": "Leader, Darlington BC",
+    "label": "substitute for",
+    "kind": "membership",
+    "weight": 1
+   }
   }
  ],
  "sources": {
