@@ -9754,6 +9754,78 @@
     "area_label": "Cleveland",
     "ceremonial": ""
    }
+  },
+  {
+   "data": {
+    "id": "Leader, Hartlepool BC",
+    "label": "Leader, Hartlepool BC",
+    "type": "Role / post",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "member",
+    "person": "Cllr Pamela Hargreaves",
+    "portfolio": "",
+    "description": "Leader of Hartlepool Borough Council; represents the council on the TVCA Cabinet",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:pamela-hargreaves",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/councillors/153/pamela_hargreaves",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "Leader, Stockton-on-Tees BC",
+    "label": "Leader, Stockton-on-Tees BC",
+    "type": "Role / post",
+    "tier": "local",
+    "geography": "Stockton-on-Tees",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "member",
+    "person": "Cllr Lisa Evans",
+    "portfolio": "",
+    "description": "Leader of Stockton-on-Tees Borough Council; represents the council on the TVCA Cabinet",
+    "group": "Local government",
+    "area": "E06000004",
+    "area_label": "Stockton-on-Tees",
+    "ceremonial": "county-durham",
+    "person_ref": "person:lisa-evans",
+    "appointed": {
+     "source": "https://moderngov.stockton.gov.uk/mgUserInfo.aspx?UID=137",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "Leader, Darlington BC",
+    "label": "Leader, Darlington BC",
+    "type": "Role / post",
+    "tier": "local",
+    "geography": "Darlington",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "member",
+    "person": "Cllr Stephen Harker",
+    "portfolio": "",
+    "description": "Leader of Darlington Borough Council; represents the council on the TVCA Cabinet",
+    "group": "Local government",
+    "area": "E06000005",
+    "area_label": "Darlington",
+    "ceremonial": "county-durham",
+    "person_ref": "person:stephen-harker",
+    "appointed": {
+     "source": "https://democracy.darlington.gov.uk/mgUserInfo.aspx?UID=157",
+     "as_of": null
+    }
+   }
   }
  ],
  "edges": [
@@ -16640,6 +16712,96 @@
     "kind": "membership",
     "weight": 1
    }
+  },
+  {
+   "data": {
+    "id": "e685",
+    "source": "Leader, Hartlepool BC",
+    "target": "Hartlepool Borough Council",
+    "label": "leads",
+    "kind": "governance",
+    "weight": 3
+   }
+  },
+  {
+   "data": {
+    "id": "e686",
+    "source": "Leader, Hartlepool BC",
+    "target": "Tees Valley Combined Authority Cabinet",
+    "label": "cabinet member of",
+    "kind": "membership",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e687",
+    "source": "Hartlepool Borough Council",
+    "target": "Tees Valley Combined Authority",
+    "label": "constituent member of",
+    "kind": "membership",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e688",
+    "source": "Leader, Stockton-on-Tees BC",
+    "target": "Stockton-on-Tees Borough Council",
+    "label": "leads",
+    "kind": "governance",
+    "weight": 3
+   }
+  },
+  {
+   "data": {
+    "id": "e689",
+    "source": "Leader, Stockton-on-Tees BC",
+    "target": "Tees Valley Combined Authority Cabinet",
+    "label": "cabinet member of",
+    "kind": "membership",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e690",
+    "source": "Stockton-on-Tees Borough Council",
+    "target": "Tees Valley Combined Authority",
+    "label": "constituent member of",
+    "kind": "membership",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e691",
+    "source": "Leader, Darlington BC",
+    "target": "Darlington Borough Council",
+    "label": "leads",
+    "kind": "governance",
+    "weight": 3
+   }
+  },
+  {
+   "data": {
+    "id": "e692",
+    "source": "Leader, Darlington BC",
+    "target": "Tees Valley Combined Authority Cabinet",
+    "label": "cabinet member of",
+    "kind": "membership",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e693",
+    "source": "Darlington Borough Council",
+    "target": "Tees Valley Combined Authority",
+    "label": "constituent member of",
+    "kind": "membership",
+    "weight": 2
+   }
   }
  ],
  "sources": {
@@ -17454,6 +17616,45 @@
    "id": "person:vikki-smith",
    "name": "Vikki Smith",
    "kind": "officer"
+  },
+  {
+   "id": "person:pamela-hargreaves",
+   "name": "Cllr Pamela Hargreaves",
+   "kind": "elected",
+   "dc_id": "80297",
+   "mandate": {
+    "office": "Councillor, Manor House",
+    "election_id": "local.hartlepool.manor-house.2022-05-05",
+    "source": "https://candidates.democracyclub.org.uk/person/80297/",
+    "term": "2022–2026",
+    "party": "Labour Party"
+   }
+  },
+  {
+   "id": "person:lisa-evans",
+   "name": "Cllr Lisa Evans",
+   "kind": "elected",
+   "dc_id": "97113",
+   "mandate": {
+    "office": "Councillor, Norton Central",
+    "election_id": "local.stockton-on-tees.norton-central.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/person/97113/",
+    "term": "2023–2027",
+    "party": "Labour Party"
+   }
+  },
+  {
+   "id": "person:stephen-harker",
+   "name": "Cllr Stephen Harker",
+   "kind": "elected",
+   "dc_id": "59500",
+   "mandate": {
+    "office": "Councillor, Pierremont",
+    "election_id": "local.darlington.pierremont.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/person/59500/",
+    "term": "2023–2027",
+    "party": "Labour Party"
+   }
   }
  ]
 }
