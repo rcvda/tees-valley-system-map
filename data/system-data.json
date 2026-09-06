@@ -2713,8 +2713,8 @@
     "area_label": "Hartlepool",
     "ceremonial": "county-durham",
     "ods": "A81612",
-    "ods_name": "THE PATEL PRACTICE",
-    "postcode": "TS25 1AX"
+    "postcode": "TS25 1AX",
+    "ods_name": "THE PATEL PRACTICE"
    }
   },
   {
@@ -3275,8 +3275,8 @@
     "area_label": "Darlington",
     "ceremonial": "county-durham",
     "ods": "A83070",
-    "ods_name": "MIDDLETON AND DINSDALE MEDICAL PRACTICE",
-    "postcode": "DL2 1BY"
+    "postcode": "DL2 1BY",
+    "ods_name": "MIDDLETON AND DINSDALE MEDICAL PRACTICE"
    }
   },
   {
@@ -10712,6 +10712,29 @@
   },
   {
    "data": {
+    "id": "PRAC:A81044",
+    "label": "McKenzie House Surgery",
+    "type": "NHS body",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Health PCN",
+    "subtype": "practice",
+    "person": "",
+    "portfolio": "",
+    "description": "GP practice · Hartlepool Health PCN",
+    "source": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads/gp-and-gp-practice-related-data",
+    "parent": "AREA:Hartlepool",
+    "group": "Primary care",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "ods": "A81044",
+    "postcode": "TS25 1QU"
+   }
+  },
+  {
+   "data": {
     "id": "PHARMHQ:P08F",
     "label": "BOOTS UK LIMITED",
     "type": "NHS body",
@@ -15113,29 +15136,6 @@
     "ceremonial": "north-yorkshire",
     "ods": "FYK43",
     "postcode": "TS7 8DU"
-   }
-  },
-  {
-   "data": {
-    "id": "PRAC:A81044",
-    "label": "McKenzie House Surgery",
-    "type": "NHS body",
-    "tier": "local",
-    "geography": "Hartlepool",
-    "status": "confirmed",
-    "org": "Hartlepool Health PCN",
-    "subtype": "practice",
-    "person": "",
-    "portfolio": "",
-    "description": "GP practice · Hartlepool Health PCN",
-    "source": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads/gp-and-gp-practice-related-data",
-    "parent": "AREA:Hartlepool",
-    "group": "Primary care",
-    "area": "E06000001",
-    "area_label": "Hartlepool",
-    "ceremonial": "county-durham",
-    "ods": "A81044",
-    "postcode": "TS25 1QU"
    }
   }
  ],
@@ -21926,7 +21926,8 @@
     "target": "Tees All Age Autism Partnership",
     "label": "member of",
     "kind": "membership",
-    "weight": 1
+    "weight": 1,
+    "id": "e1004"
    }
   },
   {
@@ -21935,7 +21936,8 @@
     "target": "Tees All Age Autism Partnership",
     "label": "member of",
     "kind": "membership",
-    "weight": 1
+    "weight": 1,
+    "id": "e1005"
    }
   },
   {
@@ -21944,7 +21946,8 @@
     "target": "Tees All Age Autism Partnership",
     "label": "member of",
     "kind": "membership",
-    "weight": 1
+    "weight": 1,
+    "id": "e1006"
    }
   },
   {
@@ -21953,7 +21956,8 @@
     "target": "Tees All Age Autism Partnership",
     "label": "member of",
     "kind": "membership",
-    "weight": 1
+    "weight": 1,
+    "id": "e1007"
    }
   },
   {
@@ -21962,7 +21966,8 @@
     "target": "Tees All Age Autism Partnership",
     "label": "member of",
     "kind": "membership",
-    "weight": 1
+    "weight": 1,
+    "id": "e1008"
    }
   },
   {
@@ -21971,7 +21976,8 @@
     "target": "Tees All Age Autism Partnership",
     "label": "member of",
     "kind": "membership",
-    "weight": 1
+    "weight": 1,
+    "id": "e1009"
    }
   },
   {
@@ -22842,6 +22848,16 @@
     "label": "council appointee on",
     "kind": "membership",
     "weight": 1
+   }
+  },
+  {
+   "data": {
+    "source": "PRAC:A81044",
+    "target": "Hartlepool Health PCN",
+    "label": "member practice",
+    "kind": "delivery",
+    "weight": 1,
+    "id": "e997"
    }
   },
   {
@@ -24816,16 +24832,6 @@
   },
   {
    "data": {
-    "source": "PRAC:A81044",
-    "target": "Hartlepool Health PCN",
-    "label": "member practice",
-    "kind": "delivery",
-    "weight": 1,
-    "id": "e997"
-   }
-  },
-  {
-   "data": {
     "source": "Middlesbrough Council",
     "target": "NHS North East & North Cumbria ICB",
     "label": "ICB partner",
@@ -24889,7 +24895,8 @@
   "Middlesbrough Council — officers/leadership": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
   "Middlesbrough Council — Executive/cabinet": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
   "NHS trusts & ICB — ODS organisation codes": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads/other-nhs-organisations",
-  "ICB partner organisations (NENC)": "NHS ODS ICB Partners master (ICB+Partners+MASTER+2026.xlsx)"
+  "ICB partner organisations (NENC)": "NHS ODS ICB Partners master (ICB+Partners+MASTER+2026.xlsx)",
+  "NHS primary care — ODS codes & pharmacies": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads/gp-and-gp-practice-related-data"
  },
  "people": [
   {
