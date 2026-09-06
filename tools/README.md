@@ -2,40 +2,30 @@
 
 Maintenance scripts for the dataset.
 
-## enrich_mandates.py — populate elected members' mandates from Democracy Club
+## resolve_mandates.py — auto-find AND enrich elected members (recommended)
 
-Fills the stubbed `mandate` block (dc_id, election_id, source, term) on `people[]`
-elected members from the Democracy Club **candidates** API (which serves who *won*).
+One command, no lookups, no CSV. It pulls the *winners* of the relevant elections from the
+Democracy Club candidates API (`candidates_elected/`, by date), builds a name index scoped to each
+person's borough, matches your `people[]` elected members to it, and writes the full mandate —
+`dc_id`, `election_id` (a uk-election-id), `source`, `term`, `office` (with ward for councillors),
+and `party` — in a single pass.
 
 ```bash
-pip install requests
-
-# 1. dry run — reports what it would do, writes nothing
-python3 tools/enrich_mandates.py
-
-# 2. apply
-python3 tools/enrich_mandates.py --write
+python3 -m pip install --user --break-system-packages requests   # once
+python3 tools/resolve_mandates.py            # dry run — reports matches, writes nothing
+python3 tools/resolve_mandates.py --write     # apply to data/system-data.json, then commit + push
 ```
 
-### Getting the Democracy Club person IDs
+Public API, no key. Idempotent (skips anyone already resolved). Matching is tolerant of middle
+names and initials and is scoped to each councillor's own authority, so collisions are rare; anyone
+it can't match confidently (usually a by-election winner or a differently-spelled name) is listed
+for you to set by hand — but it resolves the bulk automatically.
 
-Enrichment needs each person's DC person ID. Supply them in **`dc_person_ids.csv`**
-(a template listing the 26 elected members is committed here) — fill the `dc_id`
-column by finding each person at
-`https://candidates.democracyclub.org.uk/search/?q=<name>` and copying the number
-from their `/person/<id>/` URL. The script then fetches each person, takes their most
-recent *elected* candidacy, and writes `dc_id` + `election_id` (a
-[uk-election-id](https://democracyclub.github.io/uk-election-ids/)) + `term` + `source`.
+If it misses people, widen the `DATES` list near the top (it sweeps the main May polling days plus
+the 2024 general election), or check the borough slug in `LA_SLUG`.
 
-`--search` will *attempt* to resolve IDs by name, but it only accepts unambiguous single
-matches and prints the rest for you to set by hand — so the CSV is the dependable route.
+## enrich_mandates.py — enrich from a known dc_id (fallback)
 
-### First-run caveat
-
-This was written without live access to the DC API (their robots.txt blocks automated
-fetches from the authoring environment), so the API base URL and a few response-field
-names in the CONFIG / `_extract_mandate` section are best-effort. **Run the dry run first**
-and, if the output looks wrong, adjust those (they're isolated and commented). The
-ID→mandate extraction logic itself is unit-tested against the expected record shape.
-
-Idempotent (skips already-populated people) and rate-limited (1s between calls).
+Only needed for the odd person the resolver can't match. Put their Democracy Club person ID in
+`dc_person_ids.csv` (the `dc_id` column) and run `python3 tools/enrich_mandates.py --write`; it
+fetches that person and fills their mandate. `dc_person_ids.csv` is the worklist of elected members.
