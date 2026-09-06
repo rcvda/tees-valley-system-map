@@ -179,7 +179,9 @@
     "description": "Integrated Care Board; statutory NHS commissioner",
     "group": "NHS & acute care",
     "area": "E12000001",
-    "area_label": "North East"
+    "area_label": "North East",
+    "ods": "QHM",
+    "ods_ics": "E54000050"
    }
   },
   {
@@ -217,7 +219,8 @@
     "group": "NHS & acute care",
     "area": "south-tees",
     "area_label": "South Tees",
-    "ceremonial": "north-yorkshire"
+    "ceremonial": "north-yorkshire",
+    "ods": "RTR"
    }
   },
   {
@@ -235,7 +238,8 @@
     "description": "",
     "group": "NHS & acute care",
     "area": "E12000001",
-    "area_label": "North East"
+    "area_label": "North East",
+    "ods": "RX3"
    }
   },
   {
@@ -253,7 +257,8 @@
     "description": "",
     "group": "NHS & acute care",
     "area": "E12000001",
-    "area_label": "North East"
+    "area_label": "North East",
+    "ods": "RX6"
    }
   },
   {
@@ -6103,7 +6108,7 @@
     "subtype": "",
     "person": "",
     "portfolio": "",
-    "description": "New hospital group managing South Tees Hospitals and North Tees and Hartlepool NHS Foundation Trusts.",
+    "description": "New hospital group managing South Tees Hospitals and North Tees and Hartlepool NHS Foundation Trusts. · Group brand for South Tees Hospitals (RTR) + North Tees & Hartlepool (RVW) — not a separate ODS legal entity.",
     "source": "https://www.southtees.nhs.uk/about/university-hospitals-tees/",
     "group": "NHS & acute care",
     "area": "E47000006",
@@ -6127,7 +6132,8 @@
     "group": "NHS & acute care",
     "area": "north-tees",
     "area_label": "North Tees",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "ods": "RVW"
    }
   },
   {
@@ -10327,7 +10333,8 @@
     "source": "outside-bodies register",
     "group": "NHS & acute care",
     "area": "E10000016",
-    "area_label": "County Durham"
+    "area_label": "County Durham",
+    "ods": "RXP"
    }
   },
   {
@@ -24816,11 +24823,73 @@
     "weight": 1,
     "id": "e997"
    }
+  },
+  {
+   "data": {
+    "source": "Middlesbrough Council",
+    "target": "NHS North East & North Cumbria ICB",
+    "label": "ICB partner",
+    "kind": "membership",
+    "weight": 2,
+    "id": "e998"
+   }
+  },
+  {
+   "data": {
+    "source": "Redcar & Cleveland Borough Council",
+    "target": "NHS North East & North Cumbria ICB",
+    "label": "ICB partner",
+    "kind": "membership",
+    "weight": 2,
+    "id": "e999"
+   }
+  },
+  {
+   "data": {
+    "source": "Stockton-on-Tees Borough Council",
+    "target": "NHS North East & North Cumbria ICB",
+    "label": "ICB partner",
+    "kind": "membership",
+    "weight": 2,
+    "id": "e1000"
+   }
+  },
+  {
+   "data": {
+    "source": "Darlington Borough Council",
+    "target": "NHS North East & North Cumbria ICB",
+    "label": "ICB partner",
+    "kind": "membership",
+    "weight": 2,
+    "id": "e1001"
+   }
+  },
+  {
+   "data": {
+    "source": "Hartlepool Borough Council",
+    "target": "NHS North East & North Cumbria ICB",
+    "label": "ICB partner",
+    "kind": "membership",
+    "weight": 2,
+    "id": "e1002"
+   }
+  },
+  {
+   "data": {
+    "source": "County Durham and Darlington NHS Foundation Trust",
+    "target": "NHS North East & North Cumbria ICB",
+    "label": "ICB partner",
+    "kind": "membership",
+    "weight": 2,
+    "id": "e1003"
+   }
   }
  ],
  "sources": {
   "Middlesbrough Council — officers/leadership": "https://www.middlesbrough.gov.uk/media/emzm1o33/organisation-chart-june26.pdf",
-  "Middlesbrough Council — Executive/cabinet": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146"
+  "Middlesbrough Council — Executive/cabinet": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
+  "NHS trusts & ICB — ODS organisation codes": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads/other-nhs-organisations",
+  "ICB partner organisations (NENC)": "NHS ODS ICB Partners master (ICB+Partners+MASTER+2026.xlsx)"
  },
  "people": [
   {
