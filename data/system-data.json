@@ -15146,7 +15146,7 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
     "person": "Cllr Graham Harrison",
@@ -15156,7 +15156,8 @@
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:graham-harrison"
    }
   },
   {
@@ -15166,17 +15167,18 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
-    "person": "Cllr Wiley",
+    "person": "Cllr Christine Wiley",
     "portfolio": "",
     "description": "",
     "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:christine-wiley"
    }
   },
   {
@@ -15186,17 +15188,18 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
-    "person": "Cllr Lindridge",
+    "person": "Cllr Jim Lindridge",
     "portfolio": "",
     "description": "",
     "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:jim-lindridge"
    }
   },
   {
@@ -15206,17 +15209,18 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
-    "person": "Cllr Darby",
+    "person": "Cllr Rob Darby",
     "portfolio": "",
     "description": "",
     "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:rob-darby"
    }
   },
   {
@@ -15226,17 +15230,18 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
-    "person": "Cllr Napper",
+    "person": "Cllr Amanda Napper",
     "portfolio": "",
     "description": "",
     "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:amanda-napper"
    }
   },
   {
@@ -15246,17 +15251,18 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
-    "person": "Cllr Lindridge",
+    "person": "Cllr Jim Lindridge",
     "portfolio": "",
     "description": "",
     "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:jim-lindridge"
    }
   },
   {
@@ -15266,17 +15272,18 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
-    "person": "Cllr Gaines",
+    "person": "Cllr Adam Gaines",
     "portfolio": "",
     "description": "",
     "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:adam-gaines"
    }
   },
   {
@@ -15286,7 +15293,7 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
     "person": "Cllr Mike Young",
@@ -15296,7 +15303,8 @@
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:mike-young"
    }
   },
   {
@@ -15326,17 +15334,18 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
-    "person": "Cllr Little",
+    "person": "Cllr Sue Little",
     "portfolio": "",
     "description": "",
     "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:sue-little"
    }
   },
   {
@@ -15366,7 +15375,7 @@
     "type": "Council internal",
     "tier": "local",
     "geography": "Hartlepool",
-    "status": "verify",
+    "status": "confirmed",
     "org": "Hartlepool Borough Council",
     "subtype": "committee",
     "person": "Cllr Graham Harrison",
@@ -15376,7 +15385,8 @@
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:graham-harrison"
    }
   },
   {
@@ -15401,6 +15411,60 @@
      "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
      "as_of": null
     }
+   }
+  },
+  {
+   "data": {
+    "id": "Labour Party",
+    "label": "Labour Party",
+    "type": "Political party",
+    "tier": "national",
+    "geography": "National",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "Political party.",
+    "group": "Political parties",
+    "area": "E92000001",
+    "area_label": "England"
+   }
+  },
+  {
+   "data": {
+    "id": "Reform UK",
+    "label": "Reform UK",
+    "type": "Political party",
+    "tier": "national",
+    "geography": "National",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "Political party.",
+    "group": "Political parties",
+    "area": "E92000001",
+    "area_label": "England"
+   }
+  },
+  {
+   "data": {
+    "id": "Conservative and Unionist Party",
+    "label": "Conservative & Unionist Party",
+    "type": "Political party",
+    "tier": "national",
+    "geography": "National",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "Political party.",
+    "group": "Political parties",
+    "area": "E92000001",
+    "area_label": "England"
    }
   }
  ],
@@ -25244,6 +25308,376 @@
     "kind": "governance",
     "weight": 2
    }
+  },
+  {
+   "data": {
+    "id": "e1019",
+    "source": "MBC:EM-storey",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1020",
+    "source": "MBC:EM-rostron",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1021",
+    "source": "MBC:EM-henman",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1022",
+    "source": "MBC:EM-furness",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1023",
+    "source": "MBC:EM-gavigan",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1024",
+    "source": "MBC:EM-walker",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1025",
+    "source": "MBC:EM-blades",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1026",
+    "source": "MBC:EM-ryles",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1027",
+    "source": "RC:CM-climate",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1028",
+    "source": "RC:CM-adults",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1029",
+    "source": "RC:CM-growth",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1030",
+    "source": "RC:CM-neighbourhoods",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1031",
+    "source": "RC:CM-health",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1032",
+    "source": "RC:CM-resources",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1033",
+    "source": "RC:CM-highways",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1034",
+    "source": "RC:CM-children",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1035",
+    "source": "Chief of Staff — Redcar MP",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1036",
+    "source": "MP for Middlesbrough South and East Cleveland",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1037",
+    "source": "STHFT:gov-mbc",
+    "target": "Conservative and Unionist Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1038",
+    "source": "STHFT:gov-rc",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1039",
+    "source": "STHFT:gov-nycc",
+    "target": "Conservative and Unionist Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1040",
+    "source": "Leader, Hartlepool BC",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1041",
+    "source": "Leader, Stockton-on-Tees BC",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1042",
+    "source": "Leader, Darlington BC",
+    "target": "Labour Party",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1043",
+    "source": "Substitute Cabinet Member — Hartlepool BC",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1044",
+    "source": "Substitute Cabinet Member — Hartlepool BC",
+    "target": "Conservative and Unionist Party",
+    "label": "formerly",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1045",
+    "source": "HBC:c-finance",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1046",
+    "source": "HBC:c-adults",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1047",
+    "source": "HBC:c-housing",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1048",
+    "source": "HBC:c-housing",
+    "target": "Conservative and Unionist Party",
+    "label": "formerly",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1049",
+    "source": "HBC:c-neighbourhood",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1050",
+    "source": "HBC:c-licensing",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1051",
+    "source": "HBC:c-planning",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1052",
+    "source": "HBC:c-planning",
+    "target": "Conservative and Unionist Party",
+    "label": "formerly",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1053",
+    "source": "HBC:c-constitution",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1054",
+    "source": "Deputy Leader, Hartlepool BC",
+    "target": "Reform UK",
+    "label": "sits as",
+    "kind": "party",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1055",
+    "source": "Deputy Leader, Hartlepool BC",
+    "target": "Conservative and Unionist Party",
+    "label": "formerly",
+    "kind": "party",
+    "weight": 1
+   }
   }
  ],
  "sources": {
@@ -26112,6 +26546,84 @@
     "source": "https://candidates.democracyclub.org.uk/person/10288/",
     "term": "2023–2027",
     "party": "Reform UK"
+   }
+  },
+  {
+   "id": "person:christine-wiley",
+   "name": "Cllr Christine Wiley",
+   "kind": "elected",
+   "dc_id": "125421",
+   "mandate": {
+    "office": "Councillor, Rossmere",
+    "election_id": "local.hartlepool.rossmere.2026-05-07",
+    "source": "https://candidates.democracyclub.org.uk/person/125421/",
+    "term": "2026–2030",
+    "party": "Reform UK"
+   }
+  },
+  {
+   "id": "person:jim-lindridge",
+   "name": "Cllr Jim Lindridge",
+   "kind": "elected",
+   "dc_id": "53273",
+   "mandate": {
+    "office": "Councillor, Fens & Greatham",
+    "election_id": "local.hartlepool.fens-greatham.2024-05-02",
+    "source": "https://candidates.democracyclub.org.uk/person/53273/",
+    "term": "2024–2028",
+    "party": "Independent"
+   }
+  },
+  {
+   "id": "person:rob-darby",
+   "name": "Cllr Rob Darby",
+   "kind": "elected",
+   "dc_id": "87897",
+   "mandate": {
+    "office": "Councillor, Hart",
+    "election_id": "local.hartlepool.hart.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/person/87897/",
+    "term": "2023–2027",
+    "party": "Reform UK"
+   }
+  },
+  {
+   "id": "person:amanda-napper",
+   "name": "Cllr Amanda Napper",
+   "kind": "elected",
+   "dc_id": "80350",
+   "mandate": {
+    "office": "Councillor, Throston",
+    "election_id": "local.hartlepool.throston.2026-05-07",
+    "source": "https://candidates.democracyclub.org.uk/person/80350/",
+    "term": "2026–2030",
+    "party": "Reform UK"
+   }
+  },
+  {
+   "id": "person:adam-gaines",
+   "name": "Cllr Adam Gaines",
+   "kind": "elected",
+   "dc_id": "75297",
+   "mandate": {
+    "office": "Councillor, Victoria",
+    "election_id": "local.hartlepool.victoria.2026-05-07",
+    "source": "https://candidates.democracyclub.org.uk/person/75297/",
+    "term": "2026–2030",
+    "party": "Reform UK"
+   }
+  },
+  {
+   "id": "person:sue-little",
+   "name": "Cllr Sue Little",
+   "kind": "elected",
+   "dc_id": "10286",
+   "mandate": {
+    "office": "Councillor, Seaton",
+    "election_id": "local.hartlepool.seaton.2024-05-02",
+    "source": "https://candidates.democracyclub.org.uk/person/10286/",
+    "term": "2024–2028",
+    "party": "Independent"
    }
   }
  ]
