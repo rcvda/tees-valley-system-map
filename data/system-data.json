@@ -9977,13 +9977,14 @@
     "status": "verify",
     "org": "",
     "subtype": "member",
-    "person": "[verify]",
+    "person": "Cllr Mike Young",
     "portfolio": "",
-    "description": "Substitute member for Hartlepool Borough Council on the TVCA Cabinet — post-holder to verify",
+    "description": "Substitute member for Hartlepool Borough Council on the TVCA Cabinet — Deputy Leader (presumed substitute; confirm nomination).",
     "group": "Local government",
     "area": "E06000001",
     "area_label": "Hartlepool",
-    "ceremonial": "county-durham"
+    "ceremonial": "county-durham",
+    "person_ref": "person:mike-young"
    }
   },
   {
@@ -15136,6 +15137,270 @@
     "ceremonial": "north-yorkshire",
     "ods": "FYK43",
     "postcode": "TS7 8DU"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-finance",
+    "label": "Finance and Corporate Affairs Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Graham Harrison",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-adults",
+    "label": "Adult Services and Public Health Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Wiley",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-children",
+    "label": "Children's Services Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Lindridge",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-housing",
+    "label": "Housing Growth and Communities Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Darby",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-neighbourhood",
+    "label": "Neighbourhood and Regulatory Services Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Napper",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-corpparent",
+    "label": "Corporate Parent Forum",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Lindridge",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-licensing",
+    "label": "Licensing Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Gaines",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-planning",
+    "label": "Planning Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Mike Young",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-audit",
+    "label": "Audit and Governance Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Jorgeson",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-appointments",
+    "label": "Appointments Panel",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Little",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-appeals",
+    "label": "Appeals Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:c-constitution",
+    "label": "Constitution Committee",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "committee",
+    "person": "Cllr Graham Harrison",
+    "portfolio": "",
+    "description": "",
+    "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham"
+   }
+  },
+  {
+   "data": {
+    "id": "Deputy Leader, Hartlepool BC",
+    "label": "Deputy Leader, Hartlepool BC",
+    "type": "Role / post",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "",
+    "subtype": "member",
+    "person": "Cllr Mike Young",
+    "portfolio": "",
+    "description": "Deputy Leader of Hartlepool Borough Council; chairs Planning; vice-chair of Finance & Corporate Affairs. Elected 2023 (Conservative); now sits as Reform UK.",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:mike-young",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/council-democracy/appointments-council-committees",
+     "as_of": null
+    }
    }
   }
  ],
@@ -24889,6 +25154,96 @@
     "weight": 2,
     "id": "e1003"
    }
+  },
+  {
+   "data": {
+    "id": "e1010",
+    "source": "Leader, Hartlepool BC",
+    "target": "HBC:c-finance",
+    "label": "chairs",
+    "kind": "governance",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1011",
+    "source": "Leader, Hartlepool BC",
+    "target": "HBC:c-constitution",
+    "label": "chairs",
+    "kind": "governance",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1012",
+    "source": "Deputy Leader, Hartlepool BC",
+    "target": "Leader, Hartlepool BC",
+    "label": "deputy to",
+    "kind": "governance",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1013",
+    "source": "Deputy Leader, Hartlepool BC",
+    "target": "HBC:c-planning",
+    "label": "chairs",
+    "kind": "governance",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1014",
+    "source": "HBC:c-adults",
+    "target": "HBC:c-finance",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1015",
+    "source": "HBC:c-children",
+    "target": "HBC:c-finance",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1016",
+    "source": "HBC:c-housing",
+    "target": "HBC:c-finance",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1017",
+    "source": "HBC:c-neighbourhood",
+    "target": "HBC:c-finance",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1018",
+    "source": "HBC:c-corpparent",
+    "target": "HBC:c-children",
+    "label": "reports to",
+    "kind": "governance",
+    "weight": 2
+   }
   }
  ],
  "sources": {
@@ -25743,6 +26098,19 @@
     "election_id": "local.hartlepool.burn-valley.2026-05-07",
     "source": "https://candidates.democracyclub.org.uk/person/53348/",
     "term": "2026–2030",
+    "party": "Reform UK"
+   }
+  },
+  {
+   "id": "person:mike-young",
+   "name": "Cllr Mike Young",
+   "kind": "elected",
+   "dc_id": "10288",
+   "mandate": {
+    "office": "Councillor, Rural West",
+    "election_id": "local.hartlepool.rural-west.2023-05-04",
+    "source": "https://candidates.democracyclub.org.uk/person/10288/",
+    "term": "2023–2027",
     "party": "Reform UK"
    }
   }
