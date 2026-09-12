@@ -15466,6 +15466,437 @@
     "area": "E92000001",
     "area_label": "England"
    }
+  },
+  {
+   "data": {
+    "id": "HBC:CEO",
+    "label": "Chief Executive",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Matt Wilton",
+    "portfolio": "",
+    "description": "Head of Paid Service.",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:matt-wilton",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:D-neighbourhood",
+    "label": "Director of Neighbourhood and Regulatory Services",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Kieran Bostock",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:kieran-bostock",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:D-adults",
+    "label": "Executive Director of Adult Services and Public Health",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Jill Harrison",
+    "portfolio": "",
+    "description": "Statutory Director of Adult Social Services (DASS).",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:jill-harrison",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:D-housing",
+    "label": "Director of Housing, Growth and Communities",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "verify",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "",
+    "portfolio": "",
+    "description": "Post-holder to confirm — Gemma Ptak has left the council.",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:D-children",
+    "label": "Executive Director of Children's Services",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Alison Sutherland",
+    "portfolio": "",
+    "description": "Statutory Director of Children's Services (DCS).",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:alison-sutherland",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:D-finance",
+    "label": "Director of Finance, IT & Digital",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "James Magog",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:james-magog",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:D-legal",
+    "label": "Director of Legal, Governance & HR",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Hayley Martin",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:hayley-martin",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-regulatory",
+    "label": "Assistant Director (Regulatory Services)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Sylvia Pinkney",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:sylvia-pinkney",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-neighbourhood",
+    "label": "Assistant Director (Neighbourhood Services)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Scott Parkes",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:scott-parkes",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-adultsc",
+    "label": "Assistant Director (Adult Social Care)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "John Lovatt",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:john-lovatt",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:DPH",
+    "label": "Director of Public Health",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Chris Woodcock",
+    "portfolio": "",
+    "description": "Statutory Director of Public Health.",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:chris-woodcock",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-housing",
+    "label": "Assistant Director (Housing and Community)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Suzanne Halliwell",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:suzanne-halliwell",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-growth",
+    "label": "Assistant Director (Inclusive Growth)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Javed Kahn",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:javed-kahn",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-childrenfam",
+    "label": "Assistant Director (Children and Families)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Laura Gough",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:laura-gough",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-earlyint",
+    "label": "Assistant Director (Early Intervention, Performance and Commissioning)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Rebecca Stephenson",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:rebecca-stephenson",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-digital",
+    "label": "Assistant Director (Digital, Data and Technology)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Laura Griffiths",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:laura-griffiths",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-finance",
+    "label": "Assistant Director (Finance)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Paul Dixon",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:paul-dixon",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
+  },
+  {
+   "data": {
+    "id": "HBC:AD-legal",
+    "label": "Assistant Director (Legal and Governance)",
+    "type": "Council internal",
+    "tier": "local",
+    "geography": "Hartlepool",
+    "status": "confirmed",
+    "org": "Hartlepool Borough Council",
+    "subtype": "officer",
+    "person": "Neil Wilson",
+    "portfolio": "",
+    "description": "",
+    "group": "Local government",
+    "area": "E06000001",
+    "area_label": "Hartlepool",
+    "ceremonial": "county-durham",
+    "person_ref": "person:neil-wilson",
+    "appointed": {
+     "source": "https://www.hartlepool.gov.uk/downloads/download/170/senior-leadership-team",
+     "as_of": null
+    }
+   }
   }
  ],
  "edges": [
@@ -25678,6 +26109,236 @@
     "kind": "party",
     "weight": 1
    }
+  },
+  {
+   "data": {
+    "id": "e1056",
+    "source": "HBC:D-neighbourhood",
+    "target": "HBC:CEO",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1057",
+    "source": "HBC:D-adults",
+    "target": "HBC:CEO",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1058",
+    "source": "HBC:D-housing",
+    "target": "HBC:CEO",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1059",
+    "source": "HBC:D-children",
+    "target": "HBC:CEO",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1060",
+    "source": "HBC:D-finance",
+    "target": "HBC:CEO",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1061",
+    "source": "HBC:D-legal",
+    "target": "HBC:CEO",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1062",
+    "source": "HBC:AD-regulatory",
+    "target": "HBC:D-neighbourhood",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1063",
+    "source": "HBC:AD-neighbourhood",
+    "target": "HBC:D-neighbourhood",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1064",
+    "source": "HBC:AD-adultsc",
+    "target": "HBC:D-adults",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1065",
+    "source": "HBC:DPH",
+    "target": "HBC:D-adults",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1066",
+    "source": "HBC:AD-housing",
+    "target": "HBC:D-housing",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1067",
+    "source": "HBC:AD-growth",
+    "target": "HBC:D-housing",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1068",
+    "source": "HBC:AD-childrenfam",
+    "target": "HBC:D-children",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1069",
+    "source": "HBC:AD-earlyint",
+    "target": "HBC:D-children",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1070",
+    "source": "HBC:AD-digital",
+    "target": "HBC:D-finance",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1071",
+    "source": "HBC:AD-finance",
+    "target": "HBC:D-finance",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1072",
+    "source": "HBC:AD-legal",
+    "target": "HBC:D-legal",
+    "label": "reports to",
+    "kind": "officer",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1073",
+    "source": "HBC:c-adults",
+    "target": "HBC:D-adults",
+    "label": "oversees",
+    "kind": "political",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1074",
+    "source": "HBC:c-children",
+    "target": "HBC:D-children",
+    "label": "oversees",
+    "kind": "political",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1075",
+    "source": "HBC:c-housing",
+    "target": "HBC:D-housing",
+    "label": "oversees",
+    "kind": "political",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1076",
+    "source": "HBC:c-neighbourhood",
+    "target": "HBC:D-neighbourhood",
+    "label": "oversees",
+    "kind": "political",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1077",
+    "source": "HBC:c-finance",
+    "target": "HBC:D-finance",
+    "label": "oversees",
+    "kind": "political",
+    "weight": 1
+   }
+  },
+  {
+   "data": {
+    "id": "e1078",
+    "source": "HBC:c-finance",
+    "target": "HBC:D-legal",
+    "label": "oversees",
+    "kind": "political",
+    "weight": 1
+   }
   }
  ],
  "sources": {
@@ -26625,6 +27286,91 @@
     "term": "2024–2028",
     "party": "Independent"
    }
+  },
+  {
+   "id": "person:matt-wilton",
+   "name": "Matt Wilton",
+   "kind": "officer"
+  },
+  {
+   "id": "person:kieran-bostock",
+   "name": "Kieran Bostock",
+   "kind": "officer"
+  },
+  {
+   "id": "person:jill-harrison",
+   "name": "Jill Harrison",
+   "kind": "officer"
+  },
+  {
+   "id": "person:alison-sutherland",
+   "name": "Alison Sutherland",
+   "kind": "officer"
+  },
+  {
+   "id": "person:james-magog",
+   "name": "James Magog",
+   "kind": "officer"
+  },
+  {
+   "id": "person:hayley-martin",
+   "name": "Hayley Martin",
+   "kind": "officer"
+  },
+  {
+   "id": "person:sylvia-pinkney",
+   "name": "Sylvia Pinkney",
+   "kind": "officer"
+  },
+  {
+   "id": "person:scott-parkes",
+   "name": "Scott Parkes",
+   "kind": "officer"
+  },
+  {
+   "id": "person:john-lovatt",
+   "name": "John Lovatt",
+   "kind": "officer"
+  },
+  {
+   "id": "person:chris-woodcock",
+   "name": "Chris Woodcock",
+   "kind": "officer"
+  },
+  {
+   "id": "person:suzanne-halliwell",
+   "name": "Suzanne Halliwell",
+   "kind": "officer"
+  },
+  {
+   "id": "person:javed-kahn",
+   "name": "Javed Kahn",
+   "kind": "officer"
+  },
+  {
+   "id": "person:laura-gough",
+   "name": "Laura Gough",
+   "kind": "officer"
+  },
+  {
+   "id": "person:rebecca-stephenson",
+   "name": "Rebecca Stephenson",
+   "kind": "officer"
+  },
+  {
+   "id": "person:laura-griffiths",
+   "name": "Laura Griffiths",
+   "kind": "officer"
+  },
+  {
+   "id": "person:paul-dixon",
+   "name": "Paul Dixon",
+   "kind": "officer"
+  },
+  {
+   "id": "person:neil-wilson",
+   "name": "Neil Wilson",
+   "kind": "officer"
   }
  ]
 }
