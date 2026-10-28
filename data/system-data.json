@@ -26339,6 +26339,16 @@
     "kind": "political",
     "weight": 1
    }
+  },
+  {
+   "data": {
+    "id": "e1079",
+    "source": "RC:CM-adults",
+    "target": "MBC:DPH",
+    "label": "politically oversees (Adults portfolio)",
+    "kind": "political",
+    "weight": 3
+   }
   }
  ],
  "sources": {
