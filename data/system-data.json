@@ -3796,7 +3796,7 @@
   {
    "data": {
     "id": "PRAC:59",
-    "label": "Cambridge Medical Centre [M'bro]",
+    "label": "Cambridge Medical Group [M'bro]",
     "type": "NHS body",
     "tier": "local",
     "geography": "Redcar and Cleveland",
@@ -15897,6 +15897,26 @@
      "as_of": null
     }
    }
+  },
+  {
+   "data": {
+    "id": "Social Prescribing Service (R&C)",
+    "label": "Social Prescribing Service (R&C)",
+    "type": "Programme / evidence",
+    "tier": "local",
+    "geography": "Redcar and Cleveland",
+    "status": "confirmed",
+    "org": "",
+    "subtype": "",
+    "person": "",
+    "portfolio": "",
+    "description": "Social prescribing service for Redcar & Cleveland. Delivered by Redcar & Cleveland Borough Council on behalf of the three R&C Primary Care Networks (Redcar Coastal, East Cleveland and Eston), which jointly commission it. Available to patients of all member GP practices of those three PCNs. Source: R&C Borough Council social prescribing page.",
+    "source": "https://www.redcar-cleveland.gov.uk/health-and-wellbeing/social-prescribing",
+    "group": "Public health & wellbeing",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire"
+   }
   }
  ],
  "edges": [
@@ -26349,6 +26369,206 @@
     "kind": "political",
     "weight": 3
    }
+  },
+  {
+   "data": {
+    "id": "e1080",
+    "kind": "delivery",
+    "label": "delivers",
+    "source": "Redcar & Cleveland Borough Council",
+    "target": "Social Prescribing Service (R&C)",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1081",
+    "kind": "commissioning",
+    "label": "commissions",
+    "source": "Redcar Coastal PCN",
+    "target": "Social Prescribing Service (R&C)",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1082",
+    "kind": "commissioning",
+    "label": "commissions",
+    "source": "East Cleveland PCN",
+    "target": "Social Prescribing Service (R&C)",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1083",
+    "kind": "commissioning",
+    "label": "commissions",
+    "source": "Eston PCN",
+    "target": "Social Prescribing Service (R&C)",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1084",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:48",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1085",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:49",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1086",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:50",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1087",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:51",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1088",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:52",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1089",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:53",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1090",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:54",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1091",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:43",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1092",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:44",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1093",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:45",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1094",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:46",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1095",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:47",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1096",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:55",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1097",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:56",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1098",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:58",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1099",
+    "kind": "delivery",
+    "label": "available at",
+    "source": "Social Prescribing Service (R&C)",
+    "target": "PRAC:59",
+    "weight": 2
+   }
   }
  ],
  "sources": {
@@ -26356,7 +26576,8 @@
   "Middlesbrough Council — Executive/cabinet": "https://middlesbrough.moderngov.co.uk/mgCommitteeDetails.aspx?ID=1146",
   "NHS trusts & ICB — ODS organisation codes": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads/other-nhs-organisations",
   "ICB partner organisations (NENC)": "NHS ODS ICB Partners master (ICB+Partners+MASTER+2026.xlsx)",
-  "NHS primary care — ODS codes & pharmacies": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads/gp-and-gp-practice-related-data"
+  "NHS primary care — ODS codes & pharmacies": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads/gp-and-gp-practice-related-data",
+  "Redcar & Cleveland social prescribing — PCN/practice coverage": "https://www.redcar-cleveland.gov.uk/health-and-wellbeing/social-prescribing"
  },
  "people": [
   {
