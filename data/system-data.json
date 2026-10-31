@@ -15917,6 +15917,52 @@
     "area_label": "Redcar and Cleveland",
     "ceremonial": "north-yorkshire"
    }
+  },
+  {
+   "data": {
+    "id": "BRANCH:1",
+    "label": "Manor House Surgery",
+    "type": "NHS body",
+    "tier": "local",
+    "geography": "Redcar and Cleveland",
+    "status": "confirmed",
+    "org": "Eston PCN",
+    "subtype": "branch",
+    "person": "",
+    "portfolio": "",
+    "description": "GP branch site of Normanby Medical Centre (Eston PCN), at Braidwood Road, Normanby. Patient-facing name retained; the former Manor House Surgery registration (ODS A81043) merged into Normanby Medical Centre on 30/06/2024. Listed by Redcar & Cleveland Borough Council as a Social Prescribing access point.",
+    "source": "https://www.redcar-cleveland.gov.uk/health-and-wellbeing/social-prescribing",
+    "parent": "AREA:Redcar and Cleveland",
+    "group": "Primary care",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire",
+    "ods": "",
+    "postcode": "TS6 0HA"
+   }
+  },
+  {
+   "data": {
+    "id": "BRANCH:2",
+    "label": "Lagan Surgery",
+    "type": "NHS body",
+    "tier": "local",
+    "geography": "Redcar and Cleveland",
+    "status": "confirmed",
+    "org": "Eston PCN",
+    "subtype": "branch",
+    "person": "",
+    "portfolio": "",
+    "description": "GP branch site of South Grange Medical Centre (Eston PCN), at 20 Kirkleatham Street, Redcar, TS10 1TZ. Listed by Redcar & Cleveland Borough Council (combined with South Grange) as a Social Prescribing access point.",
+    "source": "https://www.redcar-cleveland.gov.uk/health-and-wellbeing/social-prescribing",
+    "parent": "AREA:Redcar and Cleveland",
+    "group": "Primary care",
+    "area": "E06000003",
+    "area_label": "Redcar and Cleveland",
+    "ceremonial": "north-yorkshire",
+    "ods": "",
+    "postcode": "TS10 1TZ"
+   }
   }
  ],
  "edges": [
@@ -26567,6 +26613,26 @@
     "label": "available at",
     "source": "Social Prescribing Service (R&C)",
     "target": "PRAC:59",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1100",
+    "kind": "membership",
+    "label": "branch of",
+    "source": "BRANCH:1",
+    "target": "PRAC:56",
+    "weight": 2
+   }
+  },
+  {
+   "data": {
+    "id": "e1101",
+    "kind": "membership",
+    "label": "branch of",
+    "source": "BRANCH:2",
+    "target": "PRAC:55",
     "weight": 2
    }
   }

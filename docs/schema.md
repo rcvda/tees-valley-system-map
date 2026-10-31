@@ -58,6 +58,17 @@ Top-level bodies are coloured by type (statutory, NHS, emergency, partnership/bo
 
 Every node also carries a **geography tier** (local / sub-regional / regional / national) so you can filter the map to a footprint.
 
+### Branch sites
+
+A **branch site** is a physical premises of a GP practice that patients know by its own name (e.g. Manor House, Lagan) but which is not a separately registered practice. It is modelled as its own node so it is searchable and visible under its own name, without ever duplicating the practice's relationships:
+
+- `subtype: "branch"`, `type: "NHS body"`, `group: "Primary care"`.
+- `org` is set to the parent practice's **PCN** (not the practice label), so the viewer clusters and reveals the branch alongside that PCN's practices when the PCN is expanded.
+- A `branch of` edge (`kind: "membership"`) from the branch to its **parent practice** node carries the true relationship — this is what the detail panel and any traversal read.
+- **Relationships stay on the parent practice.** PCN membership, commissioning and service coverage (e.g. social prescribing) are recorded once, on the practice; the branch inherits them through its `branch of` link and never carries duplicate edges.
+
+Examples: Manor House Surgery (branch of Normanby Medical Centre) and Lagan Surgery (branch of South Grange Medical Centre), both in Eston PCN. Where a former standalone practice has merged into another but kept its name as a branch (Manor House, whose ODS registration A81043 closed 30/06/2024 and merged into Normanby), the branch node preserves the patient-facing name and records the merger in its description.
+
 ## Using the viewer
 
 - **Click an organisation** (e.g. Middlesbrough Council) to expand its internal structure; click again or use the sidebar to collapse. Middlesbrough is the fully-built template; other bodies are top-level only so far.
